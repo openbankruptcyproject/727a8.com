@@ -2,7 +2,7 @@
 
 > Free guide to the Chapter 7 discharge bar under 11 U.S.C. Section 727(a)(8).
 
-727a8.com is a free, open-source educational resource about the 8-year Chapter 7 discharge waiting period and all related bankruptcy discharge timing bars. Part of the Bankruptcy Transparency Network.
+727a8.com is a free, open-source educational resource about the 8-year Chapter 7 discharge waiting period and all related bankruptcy discharge timing bars. Part of the Open Bankruptcy Project.
 
 ## Pages
 
@@ -27,7 +27,7 @@
 
 ## Network
 
-Part of the Bankruptcy Transparency Network:
+Part of the Open Bankruptcy Project:
 - 1328f.com -- Discharge eligibility screener
 - 1328f.org -- Research platform
 - 109g.org -- The 180-day filing bar
