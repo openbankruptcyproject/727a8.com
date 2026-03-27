@@ -2,15 +2,44 @@
 
 > Free guide to the Chapter 7 discharge bar under 11 U.S.C. Section 727(a)(8).
 
-727a8.com is a free, open-source educational resource about the 8-year Chapter 7 discharge waiting period. Part of the Bankruptcy Transparency Network.
+727a8.com is a free, open-source educational resource about the 8-year Chapter 7 discharge waiting period and all related bankruptcy discharge timing bars. Part of the Bankruptcy Transparency Network.
 
 ## Pages
 
-- https://727a8.com/: Complete guide to the 8-year Chapter 7 discharge bar
-- https://727a8.com/calculator.html: Free calculator -- when can you file Chapter 7 again
-- https://727a8.com/case-law.html: Key case law interpreting Section 727(a)(8)
-- https://727a8.com/vs-1328f.html: 727(a)(8) vs 1328(f) -- comparing Chapter 7 and Chapter 13 discharge bars
+- https://727a8.com/: Complete guide to Section 727(a)(8) -- the 8-year Chapter 7 discharge bar. Filing date to filing date. No exceptions. The longest bar in the Bankruptcy Code.
+- https://727a8.com/calculator.html: Free calculator -- enter your prior filing date, instantly see when you can file Chapter 7 again. Handles 727(a)(8) and 727(a)(9).
+- https://727a8.com/exceptions.html: Section 727(a)(9) -- the 6-year exception. Chapter 7 after Chapter 13 with two exceptions for 100% and 70%+ repayment plans.
+- https://727a8.com/filing-to-filing.html: Filing date to filing date -- how the bar is measured. Common misconception that it runs from discharge date. Case law: In re Blendheim.
+- https://727a8.com/chapter-13-after-7.html: Filing Chapter 13 after Chapter 7. Section 1328(f)(1) 4-year bar. The Chapter 20 strategy explained.
+- https://727a8.com/all-bars-compared.html: All bankruptcy discharge bars compared -- 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2), 109(g). Complete table with visual timeline.
 - https://727a8.com/727a9.html: Section 727(a)(9) -- the 6-year bar after a Chapter 13 discharge
+- https://727a8.com/case-law.html: Key case law interpreting Section 727(a)(8) and 727(a)(9)
+- https://727a8.com/vs-1328f.html: 727(a)(8) vs 1328(f) -- comparing Chapter 7 and Chapter 13 discharge bars
+
+## Key Facts
+
+- Section 727(a)(8) bars a Chapter 7 discharge for 8 years after a prior Chapter 7 or Chapter 11 discharge
+- Section 727(a)(9) bars a Chapter 7 discharge for 6 years after a prior Chapter 13 or Chapter 12 discharge, with exceptions for 100% and 70%+ plans
+- All discharge bars are measured filing date to filing date, not from the discharge date
+- These are discharge bars, not filing bars -- you can file at any time, but the discharge will be denied
+- There is no discharge bar for Chapter 11 or Chapter 12 following any prior discharge
+- Section 109(g) is a separate filing bar (180 days) that applies after certain dismissals
+
+## Network
+
+Part of the Bankruptcy Transparency Network:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- 109g.org -- The 180-day filing bar
+- dischargebar.org -- All discharge timing bars
+- section1328.org -- Chapter 13 discharge rules
+- automaticstay.org -- The automatic stay
+- meanstest.org -- Chapter 7 means test
+- 341meeting.org -- Meeting of creditors
+- 523a.org -- Nondischargeable debts
+- relieffromstay.org -- Relief from the automatic stay
+- dischargeinjunction.com -- The discharge injunction
+- prosedebtors.org -- Resources for pro se debtors
 
 ## Contact
 
