@@ -1,0 +1,3219 @@
+# 727a8.com -- Full Content
+
+This file contains the full text content of all pages on 727a8.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Section 727(a)(9): Chapter 7 After Chapter 13 -- 6-Year Bar -- 727(a)(8)
+Source: https://727a8.com/727a9.html
+
+☰ Menu
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+|
+727(a)(9)
+727 vs 1328(f)
+Case Law
+
+Skip to main content
+
+727a8.com
+
+Section 727(a)(9) -- Chapter 7 After Chapter 13
+
+What is Section 727(a)(9)?
+
+Section 727(a)(9) is the companion statute to Section 727(a)(8). While 727(a)(8) covers the situation where your prior case was a Chapter 7 or 11, Section 727(a)(9) covers the situation where your prior case was a Chapter 12 or Chapter 13.
+
+The Statute
+
+11 U.S.C. Section 727(a)(9): "The court shall grant the debtor a discharge, unless the debtor has been granted a discharge under section 1228 or 1328 of this title in a case commenced within 6 years before the date of the filing of the petition, unless payments under the plan in the prior case totaled not less than -- (A) 100 percent of the allowed unsecured claims in such case; or (B) not less than 70 percent of such claims, and the plan was proposed by the debtor in good faith, and was the debtor's best effort."
+
+In plain English: if you received a Chapter 13 (or Chapter 12) discharge in a case filed within the past 6 years, you cannot get a Chapter 7 discharge -- unless you paid all of your unsecured creditors in full, or paid at least 70% of them and your plan was a good-faith best effort.
+
+The 6-Year Bar
+
+Like Section 727(a)(8), the 6-year period under 727(a)(9) is measured from filing date to filing date. The date you received your Chapter 13 discharge does not control.
+
+Example
+
+You filed Chapter 13 on January 10, 2020 and received your discharge on February 15, 2025 after completing a 5-year plan. The 6-year bar expires on January 10, 2026, not February 15, 2031. You could file Chapter 7 on or after January 10, 2026.
+
+This is particularly important for Chapter 13 cases because they typically last 3 to 5 years. A debtor who completes a 5-year plan may find that the 6-year window is nearly expired by the time they receive the discharge, making the wait quite short.
+
+The 70% Exception
+
+Section 727(a)(9)(B) provides an exception to the 6-year bar. If you meet both of the following conditions, the bar does not apply:
+
+You paid at least 70% of allowed unsecured claims under the plan; and
+
+The plan was proposed in good faith and represented your best effort.
+
+Both conditions must be satisfied. Paying 70% alone is not enough if the plan was not proposed in good faith. And a good-faith plan that paid less than 70% does not qualify.
+
+How Courts Evaluate "Best Effort"
+
+Courts look at the totality of the circumstances to determine whether a plan represented the debtor's "best effort." Factors include:
+
+Did the debtor devote all disposable income to the plan?
+
+Was the plan the maximum the debtor could afford?
+
+Did the debtor's financial situation change during the plan?
+
+Were there modifications that reduced payments without justification?
+
+This is a subjective determination, and different courts may reach different conclusions on similar facts. If you plan to rely on the 70% exception, you should have documentation of your plan payments and be prepared to demonstrate good faith.
+
+The 100% Exception
+
+Section 727(a)(9)(A) provides a simpler exception: if you paid 100% of allowed unsecured claims, the bar does not apply, period. No good-faith or best-effort analysis is required. If every unsecured creditor received full payment through the plan, you are free to file Chapter 7 at any time.
+
+When 727(a)(9) Does Not Apply
+
+Section 727(a)(9) only applies when the prior case resulted in a discharge under Section 1228 (Chapter 12) or Section 1328 (Chapter 13). It does not apply if:
+
+The prior Chapter 13 case was dismissed before completion (no discharge was granted)
+
+The debtor did not complete the plan and did not receive a hardship discharge
+
+The prior case was converted to Chapter 7 (the resulting discharge, if any, is under Section 727, triggering 727(a)(8) instead)
+
+This distinction matters a great deal. Chapter 13 cases have high dismissal rates -- nationally, over 50% of Chapter 13 cases end in dismissal rather than discharge. If your Chapter 13 was dismissed, Section 727(a)(9) does not bar a subsequent Chapter 7 filing.
+
+727(a)(9) vs. 727(a)(8)
+
+Feature
+727(a)(8)
+727(a)(9)
+
+Prior case type
+Chapter 7 or 11
+Chapter 12 or 13
+
+Waiting period
+8 years
+6 years
+
+Measurement
+Filing date to filing date
+Filing date to filing date
+
+Exceptions
+None
+100% payment, or 70% with good faith + best effort
+
+New case type
+Bars Chapter 7 discharge
+Bars Chapter 7 discharge
+
+Practical Guidance
+
+If you completed a Chapter 13 plan and want to file Chapter 7:
+
+Find your prior filing date. The date the Chapter 13 petition was filed, not the confirmation date or discharge date.
+
+Check whether 6 years have passed. Use our date calculator.
+
+If within 6 years, check the 70% threshold. Review your Chapter 13 trustee's final report to determine the percentage paid to unsecured creditors.
+
+If you paid 70% or more, gather documentation and be prepared to demonstrate good faith and best effort to the court.
+
+If you paid less than 70%, you must wait until the 6-year window expires, or consider filing Chapter 13 again instead (subject to Section 1328(f)).
+
+Not Legal Advice
+
+This page provides general educational information about Section 727(a)(9). The 70% exception and good-faith analysis involve fact-specific determinations that vary by court. Consult a bankruptcy attorney before making filing decisions based on these rules.
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project:
+
+1328f.com --
+1328f.org --
+727a8.com
+
+727(a)(8) Explained
+Date Calculator
+Compare Discharge Bars
+Case Law
+
+© 2026 727a8.com. Educational use. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## All Bankruptcy Discharge Bars Compared -- 727(a)(8), 727(a)(9), 1328(f), 109(g)
+Source: https://727a8.com/all-bars-compared.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+All Bankruptcy Discharge Bars Compared
+
+Every discharge timing bar in the Bankruptcy Code in one place. Tables, visual timelines, and cross-references to the statutes.
+
+The Complete Discharge Bar Table
+
+This table shows every discharge timing bar across all chapter combinations. All periods are measured filing date to filing date.
+
+Prior Discharge
+New Ch. 7
+New Ch. 13
+New Ch. 11
+New Ch. 12
+
+Ch. 7 discharge
+8 yrs (727(a)(8))
+4 yrs (1328(f)(1))
+No bar
+No bar
+
+Ch. 11 discharge
+8 yrs (727(a)(8))
+4 yrs (1328(f)(1))
+No bar
+No bar
+
+Ch. 13 discharge
+6 yrs* (727(a)(9))
+2 yrs (1328(f)(2))
+No bar
+No bar
+
+Ch. 12 discharge
+6 yrs* (727(a)(9))
+4 yrs (1328(f)(1))
+No bar
+No bar
+
+Dismissed (any ch.)
+No bar
+No bar
+No bar
+No bar
+
+* Exceptions exist for 100% plans or 70%+ good-faith/best-effort plans under Section 727(a)(9). All periods measured filing date to filing date. Dismissal triggers no discharge bar, but may trigger the separate Section 109(g) filing bar.
+
+Visual Timeline
+
+How the discharge bars compare visually. Each bar shows how long you must wait for a new discharge after a prior filing.
+
+Ch.7 to Ch.7
+
+8 years -- 727(a)(8)
+
+Ch.13 to Ch.7
+
+6 years -- 727(a)(9)
+
+Ch.7 to Ch.13
+
+4 years -- 1328(f)(1)
+
+Ch.13 to Ch.13
+
+2 years -- 1328(f)(2)
+
+Any to Ch.11/12
+
+No bar
+
+012345678 years
+
+The Five Statutes
+
+1. Section 727(a)(8) -- 8-Year Bar
+
+Bars a Chapter 7 discharge if the debtor received a prior Chapter 7 or Chapter 11 discharge in a case filed within 8 years. No exceptions. The longest discharge bar in the Code. Full guide.
+
+2. Section 727(a)(9) -- 6-Year Bar
+
+Bars a Chapter 7 discharge if the debtor received a prior Chapter 12 or Chapter 13 discharge in a case filed within 6 years. Two exceptions for 100% plans and 70%+ good-faith plans. Full guide.
+
+3. Section 1328(f)(1) -- 4-Year Bar
+
+Bars a Chapter 13 discharge if the debtor received a prior Chapter 7, 11, or 12 discharge in a case filed within 4 years. This is the bar that applies to the Chapter 20 strategy.
+
+4. Section 1328(f)(2) -- 2-Year Bar
+
+Bars a Chapter 13 discharge if the debtor received a prior Chapter 13 discharge in a case filed within 2 years. The shortest discharge timing bar. Full guide.
+
+5. Section 109(g) -- 180-Day Filing Bar
+
+Unlike the others, 109(g) is a filing bar, not a discharge bar. It prevents a debtor from filing any new bankruptcy case for 180 days after a dismissal that resulted from the debtor's willful failure to abide by court orders or to appear, or after a voluntary dismissal following a motion for relief from stay. Full guide.
+
+Key distinction: Sections 727(a)(8), 727(a)(9), and 1328(f) are discharge bars -- you can file, but you cannot receive a discharge. Section 109(g) is a filing bar -- you cannot file at all. Section 109(g) is also much shorter (180 days vs. years) and applies only after specific types of dismissals.
+
+Rules That Apply to All Discharge Bars
+
+Filing date to filing date. Every bar is measured from the filing date of the prior case to the filing date of the new case. The discharge date is never part of the calculation. Full explanation.
+
+Discharge required. The bars apply only when the prior case resulted in a discharge. Dismissed cases, denied discharges, and revoked discharges do not trigger these bars.
+
+No judicial discretion. Courts cannot waive or shorten these periods. If the math does not work, the discharge will be denied.
+
+No bar for Ch. 11 or Ch. 12. There is no discharge timing bar for filing Chapter 11 or Chapter 12 after any prior discharge.
+
+Multiple priors. If you have more than one prior discharge, each creates its own independent bar. You must satisfy all of them.
+
+Any district. The bar applies regardless of where the prior case was filed. Courts use PACER to check nationwide.
+
+Frequently Asked Questions
+
+What are all the bankruptcy discharge bars?
+
+727(a)(8) -- 8 years, Ch.7/11 to Ch.7. 727(a)(9) -- 6 years, Ch.12/13 to Ch.7 (with exceptions). 1328(f)(1) -- 4 years, Ch.7/11/12 to Ch.13. 1328(f)(2) -- 2 years, Ch.13 to Ch.13. 109(g) -- 180 days filing bar after certain dismissals.
+
+Is there a discharge bar for filing Chapter 11?
+
+No. There is no discharge timing bar for Chapter 11 or Chapter 12 following any prior discharge.
+
+What is the shortest way to get a new discharge?
+
+Chapter 13 to Chapter 13 -- 2 years under Section 1328(f)(2). Or file Chapter 11, which has no bar at all (though Chapter 11 is expensive and complex).
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## When Can I File Chapter 7 Again? Free Date Calculator -- 727(a)(8)
+Source: https://727a8.com/calculator.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+When Can I File Chapter 7 Again?
+
+Enter your prior filing date. Get your answer instantly.
+
+What chapter was your prior case?
+
+Chapter 7
+Chapter 11 (individual)
+Chapter 13
+Chapter 12
+
+Select the chapter of your prior case that resulted in a discharge.
+
+Prior case filing date (petition date)
+
+The date you filed the prior case -- not the date the discharge was entered. Why this matters.
+
+I paid at least 70% of unsecured claims and the plan was proposed in good faith with best effort.
+
+If checked, the 727(a)(9) 6-year bar may not apply. This is determined by the court, not automatically.
+
+Calculate Eligibility Date
+
+How This Calculator Works
+
+The calculator applies the discharge bar rules from the Bankruptcy Code:
+
+Prior Chapter 7 or 11 discharge: Wait 8 years from the prior filing date. This is Section 727(a)(8).
+
+Prior Chapter 13 or 12 discharge: Wait 6 years from the prior filing date -- unless you paid 100% or 70%+ in good faith. This is Section 727(a)(9).
+
+All periods are measured from filing date to filing date. The discharge date of the prior case does not affect the calculation. See Filing Date to Filing Date for why.
+
+What About Filing Chapter 13 Instead?
+
+This calculator addresses Chapter 7 eligibility only. If you want to file Chapter 13 instead, different rules apply under Section 1328(f):
+
+Prior Chapter 7 discharge: 4-year bar on Chapter 13 discharge
+
+Prior Chapter 13 discharge: 2-year bar on Chapter 13 discharge
+
+Use the 1328f.com eligibility screener to check all discharge bars across all chapter combinations at once, or see the full comparison table.
+
+Not Legal Advice
+
+This calculator provides general information based on the Bankruptcy Code. Individual circumstances vary. Court practices, local rules, and specific case facts can affect eligibility. Consult a bankruptcy attorney before making filing decisions.
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+---
+
+## Key Cases on Section 727(a)(8) -- 8-Year Discharge Bar Case Law
+Source: https://727a8.com/case-law.html
+
+☰ Menu
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+|
+727(a)(9)
+727 vs 1328(f)
+Case Law
+
+Skip to main content
+
+727a8.com
+
+Key Cases on Section 727(a)(8)
+
+Overview
+
+Section 727(a)(8) is a relatively straightforward statute, but courts have addressed several interpretive questions over the years. This page collects key decisions on the 8-year discharge bar, organized by topic. These cases illustrate how courts handle filing date disputes, the BAPCPA transition, and the relationship between 727(a)(8) and other discharge bars.
+
+For case law on the 70% exception and the 6-year bar, see the Section 727(a)(9) page. For case law on Section 1328(f), see 1328f.com case law.
+
+Filing Date Measurement
+
+The most litigated issue under 727(a)(8) is the measurement of the 8-year period. The statute is clear that it runs from filing date to filing date, but disputes arise over exactly what constitutes the "date of the filing of the petition."
+
+In re Bianucci
+
+4 F.3d 526 (7th Cir. 1993)
+
+Filing Date 7th Circuit
+
+Holding: The discharge bar period runs from the date the prior petition was filed to the date the new petition is filed. The date the prior discharge was entered is irrelevant. The court emphasized that the plain language of the statute refers to "a case commenced" within the relevant period, and a case is commenced when the petition is filed under Section 301.
+
+This pre-BAPCPA decision applied the former 6-year bar but established the filing-date-to-filing-date principle that carries forward to the current 8-year version.
+
+In re Zarnel
+
+619 F.3d 156 (2d Cir. 2010)
+
+Filing Date 2nd Circuit
+
+Holding: The debtor's Chapter 7 discharge was properly denied where the prior Chapter 7 case was filed within 8 years of the new petition date. The court rejected the debtor's argument that the period should be measured from the discharge date of the prior case, finding the statute's reference to "a case commenced" unambiguous.
+
+The BAPCPA Transition
+
+When BAPCPA extended the bar from 6 years to 8 years on October 17, 2005, some debtors were caught in the transition. They had waited 6 years under the old rule but had not yet reached 8 years under the new rule.
+
+In re Gagliardi
+
+340 B.R. 585 (Bankr. D. Conn. 2006)
+
+BAPCPA Transition Connecticut
+
+Holding: The 8-year bar applies to cases filed on or after October 17, 2005, regardless of when the prior case was filed. The debtor, who had filed the prior case in 1999 and filed a new case in 2006 (7 years later), was barred from discharge under the new 8-year rule. The court rejected the argument that the old 6-year rule should apply because the prior case was filed before BAPCPA.
+
+In re Laubach
+
+356 B.R. 109 (Bankr. E.D. Pa. 2006)
+
+BAPCPA Transition Pennsylvania
+
+Holding: The BAPCPA amendment to Section 727(a)(8) applies based on the filing date of the new case. Since the debtor's new case was filed after October 17, 2005, the 8-year bar governed. The court found no retroactivity problem because the statute imposes a prospective condition on the new filing.
+
+Tolling and Equitable Defenses
+
+Courts have consistently held that the 8-year period under 727(a)(8) is not subject to equitable tolling. The rule is mechanical: if the prior case was filed within 8 years, the bar applies.
+
+In re Caravona
+
+347 B.R. 259 (Bankr. N.D. Ohio 2006)
+
+No Tolling Ohio
+
+Holding: The 8-year period under Section 727(a)(8) is a bright-line rule that does not admit equitable exceptions. The debtor argued that hardship circumstances warranted shortening the bar period, but the court held the statute is mandatory ("the court shall grant... unless") and leaves no room for judicial discretion.
+
+This principle is consistent across circuits: Section 727(a)(8) is not subject to equitable tolling, estoppel, or laches.
+
+Dismissed vs. Discharged Cases
+
+A critical distinction: Section 727(a)(8) applies only when the debtor "has been granted a discharge" in the prior case. If the prior case was dismissed, no discharge was granted, and the bar does not apply.
+
+In re Szadkowski
+
+400 B.R. 564 (Bankr. S.D. Ohio 2009)
+
+Dismissal Ohio
+
+Holding: Where the debtor's prior Chapter 7 case was dismissed before any discharge was entered, Section 727(a)(8) did not bar discharge in the subsequent case. The court distinguished between cases that result in a discharge and those that do not, finding that only an actual grant of discharge triggers the bar.
+
+In re Markus
+
+313 F.3d 1146 (9th Cir. 2002)
+
+Revoked Discharge 9th Circuit
+
+Holding: A discharge that has been revoked under Section 727(d) still counts as "granted" for purposes of the discharge bar. The prior 6-year bar (now 8-year) applied even though the prior discharge was later revoked for fraud. The court reasoned that the statute focuses on whether a discharge was granted, not whether it remains in effect.
+
+This is a minority position, and some courts have reached the opposite conclusion. Debtors in this situation should research their circuit's position carefully.
+
+Conversion Cases
+
+When a case is converted between chapters, the filing date for 727(a)(8) purposes is the date the original petition was filed, not the date of conversion.
+
+In re Bohrer
+
+266 B.R. 200 (Bankr. N.D. Cal. 2001)
+
+Conversion California
+
+Holding: When a case is converted from Chapter 13 to Chapter 7, the case is deemed "commenced" on the date the original Chapter 13 petition was filed under Section 348(a). The conversion date does not restart the clock for purposes of 727(a)(8) in any future case.
+
+Relationship to Other Bars
+
+In re Bateman
+
+515 B.R. 359 (Bankr. M.D. Ala. 2014)
+
+Multiple Bars Alabama
+
+Holding: A debtor may be subject to multiple discharge bars simultaneously. The debtor had a prior Chapter 7 (triggering 727(a)(8) for a new Chapter 7) and a prior Chapter 13 (triggering 1328(f) for a new Chapter 13). The court analyzed both bars independently and found the debtor was barred from discharge under any chapter.
+
+This case illustrates why debtors with multiple prior filings should use a tool like the 1328f.com screener to check all bars simultaneously.
+
+Practical Takeaways
+
+Filing date controls. Every circuit that has addressed the question agrees: the 8-year period runs from filing date to filing date.
+
+No equitable exceptions. Courts will not shorten the 8-year period for hardship or other equitable reasons.
+
+Dismissal is different from discharge. If your prior case was dismissed, 727(a)(8) does not apply.
+
+Revoked discharges may still count. Circuit splits exist on whether a revoked discharge triggers the bar. Check your circuit.
+
+Conversion does not restart the clock. The original filing date controls, not the conversion date.
+
+For additional case law resources, see 1328f.com case law and the 1328f.org research reports.
+
+Not Legal Advice
+
+This page summarizes published court decisions for educational purposes. Case law varies by jurisdiction, and decisions may have been modified or overruled. Do not rely on these summaries as legal authority. Consult a bankruptcy attorney for advice about your specific situation.
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project:
+
+1328f.com --
+1328f.org --
+727a8.com
+
+727(a)(8) Explained
+Date Calculator
+727(a)(9)
+Compare Discharge Bars
+
+© 2026 727a8.com. Educational use. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+---
+
+## Filing Chapter 13 After Chapter 7 -- Section 1328(f)(1) 4-Year Bar -- 727(a)(8)
+Source: https://727a8.com/chapter-13-after-7.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Filing Chapter 13 After Chapter 7
+
+Section 1328(f)(1) -- the 4-year bar. Different from 727(a)(8). Half the wait.
+
+The 4-Year Bar Under Section 1328(f)(1)
+
+If you received a Chapter 7 discharge and want to file Chapter 13, the waiting period for a new discharge is 4 years -- half the 8-year bar that applies to Chapter 7 to Chapter 7 under Section 727(a)(8).
+
+11 U.S.C. Section 1328(f)(1): "Notwithstanding subsections (a) and (b), the court shall not grant a discharge of all debts provided for in the plan or disallowed under section 502, if the debtor has received a discharge -- (1) in a case filed under chapter 7, 11, or 12 of this title during the 4-year period preceding the date of the order for relief under this chapter."
+
+Like every other discharge bar, this is measured filing date to filing date. The discharge date of the prior Chapter 7 is irrelevant.
+
+Why File Chapter 13 After Chapter 7?
+
+If you already received a Chapter 7 discharge, why would you need bankruptcy again? Several common reasons:
+
+Mortgage arrearages: You fell behind on your mortgage after the Chapter 7 discharge. Chapter 13 lets you cure the arrearage over 3-5 years while keeping the house.
+
+Car loan arrearages: Same concept -- cure arrearages on a secured loan through the plan.
+
+Tax debts: Some tax debts that survived the Chapter 7 can be paid through a Chapter 13 plan.
+
+New unsecured debt: If you accumulated new unsecured debt after the Chapter 7 discharge (medical bills, credit cards opened post-discharge), Chapter 13 can address it.
+
+Lien stripping: In some jurisdictions, Chapter 13 allows stripping wholly unsecured junior liens on real property.
+
+The "Chapter 20" Strategy
+
+"Chapter 20" is not a chapter of the Bankruptcy Code. It is an informal term for filing Chapter 7 followed by Chapter 13 (7 + 13 = 20). This is a legitimate, court-recognized strategy:
+
+Step 1: File Chapter 7. Discharge unsecured debt (credit cards, medical bills, personal loans).
+
+Step 2: After the Chapter 7 discharge, file Chapter 13. Use the plan to cure secured debt arrearages (mortgage, car loan) over 3-5 years.
+
+The Catch
+
+If you file Chapter 13 within 4 years of the Chapter 7 filing, Section 1328(f)(1) prevents a Chapter 13 discharge. This means:
+
+Your Chapter 13 plan payments will be distributed to creditors normally
+
+You get the automatic stay (stops foreclosure, repossession, garnishment)
+
+You can cure arrearages through the plan
+
+But any debts remaining at the end of the plan will not be discharged
+
+When this does not matter: If your unsecured debts were already discharged in the Chapter 7, and your Chapter 13 plan is designed to pay 100% of remaining secured claims, there may be nothing left to discharge. The absence of a Chapter 13 discharge is irrelevant if the plan pays everything.
+
+When this does matter: If you have new unsecured debts that arose after the Chapter 7 discharge, those debts were not covered by the Chapter 7 discharge. Without a Chapter 13 discharge, those debts survive. Courts are also split on whether a no-discharge Chapter 13 plan can strip junior liens.
+
+Comparison: Filing After Chapter 7
+
+New case
+Waiting period
+Statute
+
+Chapter 7 again
+8 years
+727(a)(8)
+
+Chapter 13
+4 years
+1328(f)(1)
+
+Chapter 11
+No bar
+--
+
+Chapter 12
+No bar
+--
+
+All periods measured filing date to filing date. See full comparison.
+
+Frequently Asked Questions
+
+Can I file Chapter 13 after Chapter 7?
+
+Yes. You can file at any time. But a Chapter 13 discharge is barred for 4 years from the prior Chapter 7 filing date under Section 1328(f)(1). You can still complete the plan -- you just may not receive a discharge.
+
+What is a Chapter 20 bankruptcy?
+
+An informal term for Chapter 7 followed by Chapter 13 (7 + 13 = 20). The Chapter 7 eliminates unsecured debt; the Chapter 13 addresses secured debt arrearages. It is a legitimate strategy recognized by courts.
+
+Why would I file Chapter 13 if I cannot get a discharge?
+
+The automatic stay stops foreclosure and repossession. The plan lets you cure arrearages over 3-5 years. If your unsecured debts were already discharged in Chapter 7, there may be nothing left to discharge in Chapter 13.
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 7 Common Mistakes When Refiling Chapter 7 After a Prior Bankruptcy -- 727(a)(8)
+Source: https://727a8.com/common-mistakes.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+7 Common Mistakes When Refiling Chapter 7
+
+These errors cost debtors thousands of dollars and months of wasted time. Every one of them is avoidable.
+
+Home › Common Mistakes
+
+Mistake #1: Counting from the Discharge Date Instead of the Filing Date
+
+This is the single most common mistake. Section 727(a)(8) measures the 8-year period from filing date to filing date -- not from the date the prior discharge was entered. The prior discharge date is irrelevant.
+
+In a typical Chapter 7 case, the discharge is entered 3 to 4 months after the case is filed. That means counting from the discharge date adds 3 to 4 unnecessary months to your wait. In some cases -- where there were delays, objections, or complications -- the gap between filing and discharge can be 6 months or more.
+
+Example: Prior case filed January 15, 2018. Discharge entered May 3, 2018. If you count 8 years from the discharge date, you calculate your earliest date as May 3, 2026. But the actual earliest date is January 15, 2026 -- nearly 4 months sooner.
+
+Even some attorneys make this mistake. Always verify the filing date of your prior case, not the discharge date. For a deeper explanation, see Filing Date to Filing Date.
+
+Mistake #2: Not Checking If You Are Eligible for Chapter 13 Instead of Waiting
+
+Many people assume they have to wait the full 8 years before they can get any bankruptcy relief. That is not true. Under Section 1328(f)(1), a debtor who received a Chapter 7 discharge can receive a Chapter 13 discharge after only 4 years from the prior Chapter 7 filing date.
+
+This means if you are in the 4-to-8-year window, you may be eligible for Chapter 13 right now. Chapter 13 requires a regular income and involves a 3-to-5-year repayment plan, but it provides a discharge of most remaining unsecured debt at completion.
+
+The math: If your prior Chapter 7 was filed on June 1, 2020, you are eligible for a Chapter 13 discharge as of June 1, 2024 -- but you cannot get a Chapter 7 discharge until June 1, 2028. That is a 4-year difference. For many people, Chapter 13 is the better path during that window.
+
+For more details, see Chapter 13 After Chapter 7.
+
+Mistake #3: Filing One Day Too Early
+
+The 8-year bar is a hard line. If your prior case was filed on March 15, 2018, the earliest you can file a new Chapter 7 and receive a discharge is March 15, 2026 -- not March 14, 2026. Filing even one day too early means the court will deny your discharge.
+
+This is not a situation where the court delays your discharge until the 8 years have passed. The court denies it. You do not get a second chance within the same case. You would need to dismiss the case and refile after the 8-year date -- paying a second filing fee and potentially losing the protection of the automatic stay in the interim.
+
+Courts will not save you. There is no grace period, no rounding, and no equitable exception for being "close enough." The statute is absolute. If you are within days of the 8-year mark, wait. The cost of waiting a few extra days is zero. The cost of filing one day too early can be thousands of dollars and months of complications.
+
+Use the date calculator to find your exact earliest eligible date. When in doubt, add a buffer of a few days.
+
+Mistake #4: Thinking a Dismissed Case "Does Not Count"
+
+This one is nuanced because a dismissed case truly does not trigger the 727(a)(8) discharge bar -- but it may trigger other problems that affect your ability to file.
+
+Section 727(a)(8) only applies when a discharge was "granted" in the prior case. A dismissed case produces no discharge, so it does not start the 8-year clock. In that narrow sense, a dismissed case "does not count" for 727(a)(8) purposes.
+
+However, a dismissed case can trigger the 180-day filing bar under Section 109(g). If your prior case was dismissed for willful failure to abide by court orders, or if you voluntarily dismissed it after a creditor sought relief from the automatic stay, you may be barred from filing any new bankruptcy case for 180 days.
+
+Two different rules:
+
+727(a)(8): Bars Chapter 7 discharge for 8 years after a prior discharged case. Does not apply to dismissed cases.
+
+109(g): Bars filing any bankruptcy case for 180 days after certain types of dismissal. Applies specifically to dismissed cases.
+
+Additionally, if you had a case dismissed within the past year, the automatic stay in your new case may be limited to 30 days under Section 362(c)(3), or may not take effect at all if you had two or more cases dismissed within the past year under Section 362(c)(4). For details on these limitations, see automaticstay.org.
+
+Mistake #5: Not Understanding the 6-Year Exception for Chapter 13 Debtors
+
+If your prior discharge was under Chapter 13 (not Chapter 7), the waiting period for a new Chapter 7 discharge is 6 years, not 8. And there are two exceptions that can eliminate the wait entirely.
+
+Under Section 727(a)(9):
+
+If your prior Chapter 13 plan paid 100% of allowed unsecured claims, the 6-year bar does not apply at all
+
+If your prior plan paid at least 70% of allowed unsecured claims, was proposed in good faith, and represented your best effort, the 6-year bar does not apply
+
+The mistake is assuming the 8-year rule applies to all prior bankruptcies. It does not. If your prior case was a Chapter 13, you may have a shorter wait -- or no wait at all.
+
+Check your trustee's final report. If you completed a Chapter 13 plan, the trustee filed a final report showing the exact percentage paid to each class of creditors. If you are close to the 70% threshold, this number could save you years of waiting.
+
+Mistake #6: Accumulating New Debt While Waiting, Thinking It Will All Get Wiped
+
+Some people learn they must wait 8 years and think: "I will just run up debt now and discharge it all when I refile." This is a dangerous strategy for several reasons.
+
+Fraud risk
+
+If a creditor can show that you incurred debt with no intention of repaying it, that specific debt may be declared nondischargeable under Section 523(a)(2). The creditor files an adversary proceeding, and if the court finds fraud or false pretenses, the debt survives your discharge.
+
+Presumption of fraud for recent luxury purchases
+
+Section 523(a)(2)(C) creates a presumption that certain recent debts are nondischargeable:
+
+Consumer debts over $800 for luxury goods or services incurred within 90 days before filing
+
+Cash advances over $1,100 within 70 days before filing
+
+These thresholds are low. Running up credit cards right before filing is one of the fastest ways to have debt survive your discharge.
+
+Bad faith dismissal
+
+Under Section 707(b), the court can dismiss your case entirely if it was filed in bad faith. A pattern of running up debt with the known intention of filing bankruptcy can support a finding of bad faith.
+
+Bottom line: The 8-year wait is not an invitation to load up on debt. Debts incurred fraudulently or recklessly may survive your discharge, creditors can object, and the court can dismiss your case. Live within your means during the waiting period.
+
+Mistake #7: Not Consulting Your Prior Case Docket for the Exact Filing Date
+
+Everything in Section 727(a)(8) hinges on the exact filing date of your prior case. Yet many people rely on memory, approximation, or informal records to determine this date. Memory is unreliable, and even small errors -- one month off, one day off -- can lead to filing too early or waiting too long.
+
+Where to find your exact prior filing date
+
+PACER (pacer.uscourts.gov) -- the federal court electronic records system. If you know your case number or can search by name, the docket will show the exact filing date. PACER charges $0.10 per page, capped at $3.00 per document.
+
+The clerk's office of the bankruptcy court where you filed. Call them with your name and approximate filing year. They can look up the case and confirm the filing date.
+
+Your prior attorney should have records of the filing date. Call their office even if you no longer have a relationship with them.
+
+Your discharge order typically references the case number and filing date. If you kept a copy, check it.
+
+RECAP / CourtListener (courtlistener.com/recap) -- a free archive of PACER documents. If your case was accessed through RECAP, the docket may be available for free.
+
+Pro tip: When you find your prior filing date, write it down and keep it somewhere permanent. You may need it again for other purposes -- credit report disputes, loan applications, or future bankruptcy eligibility calculations.
+
+Pre-Filing Checklist
+
+Before filing a repeat Chapter 7, verify each of these items:
+
+Confirm the exact filing date of your prior case using PACER, the court clerk, or your prior attorney
+
+Calculate 8 full years from that filing date -- use the date calculator
+
+Verify whether your prior case was Chapter 7, 11, 12, or 13 -- different chapters trigger different waiting periods
+
+If your prior case was Chapter 13, check whether you qualify for the 6-year exception by reviewing the trustee's final report
+
+Check whether Chapter 13 is available now -- if you are past the 4-year mark, Chapter 13 may work
+
+Check for prior dismissals -- a dismissed case within the past year may limit your automatic stay
+
+Review your new debts -- debts incurred fraudulently or within the 90-day/70-day windows may be nondischargeable
+
+When in doubt, add buffer days -- file a few days after your calculated eligible date, not on it
+
+Use the tools: The date calculator on this site computes your exact earliest eligible date. The 1328f.com screener checks eligibility across all chapter combinations. Both are free.
+
+Frequently Asked Questions
+
+What happens if I file Chapter 7 too early?
+
+Your case will proceed normally -- automatic stay, trustee appointment, 341 meeting -- but your discharge will be denied at the end. You will owe all debts, may have lost non-exempt assets, and will have a bankruptcy on your credit report with no discharge benefit. The court does not delay the discharge to the correct date. It denies it outright.
+
+Does a dismissed case reset the 8-year clock?
+
+A dismissed case does not trigger the 727(a)(8) bar at all because no discharge was granted. But it may trigger the 180-day filing bar under Section 109(g) and may limit the automatic stay in your next case under Section 362(c)(3) or (c)(4).
+
+How do I find my prior filing date?
+
+The best source is the docket of your prior case on PACER (pacer.uscourts.gov). You can also call the clerk's office of the bankruptcy court where you filed, contact your prior attorney, or check your copy of the discharge order. Do not rely on memory.
+
+Related Resources
+
+Section 109(g) -- The 180-day filing bar for dismissed cases
+
+Discharge Bars -- All time limits between discharges by chapter
+
+Serial Filer -- How the automatic stay changes for repeat filers
+
+Can I File Again? -- Quick eligibility check for repeat filings
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Section 727(a)(9) -- The 6-Year Exception: Chapter 7 After Chapter 13 -- 727(a)(8)
+Source: https://727a8.com/exceptions.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Section 727(a)(9) -- The 6-Year Exception
+
+Chapter 7 after Chapter 13: 6 years, not 8. And if you paid enough, the wait may be zero.
+
+What Is Section 727(a)(9)?
+
+Section 727(a)(9) is the companion provision to Section 727(a)(8). While 727(a)(8) addresses Chapter 7 after Chapter 7 (8-year bar), Section 727(a)(9) addresses Chapter 7 after Chapter 13 or Chapter 12.
+
+The bar is shorter -- 6 years instead of 8 -- and unlike 727(a)(8), it has two exceptions that can eliminate the waiting period entirely.
+
+11 U.S.C. Section 727(a)(9): "The court shall grant the debtor a discharge, unless ... the debtor has been granted a discharge under section 1228 or 1328 of this title ... in a case commenced within 6 years before the date of the filing of the petition, unless payments under the plan in such case totaled not less than -- (A) 100 percent of the allowed unsecured claims in such case; or (B)(i) 70 percent of such claims; and (ii) the plan was proposed by the debtor in good faith, and was the debtor's best effort."
+
+Like 727(a)(8), the 6-year period is measured filing date to filing date. The discharge date of the prior Chapter 13 case does not matter.
+
+The Two Exceptions
+
+Exception 1: 100% Plan
+
+If your prior Chapter 13 plan paid 100% of all allowed unsecured claims, the 6-year bar does not apply. Period. If every unsecured creditor who filed a valid claim was paid in full through the plan, you are free to file Chapter 7 immediately after the Chapter 13 discharge.
+
+No judicial discretion needed. If the plan paid 100%, the exception is automatic. The only question is whether 100% was actually paid -- look at the trustee's final report for the exact percentage.
+
+Exception 2: 70% Plan with Good Faith and Best Effort
+
+If your prior Chapter 13 plan paid at least 70% of allowed unsecured claims, AND the plan was proposed in good faith, AND the plan represented the debtor's best effort, the 6-year bar does not apply.
+
+This exception requires satisfying all three conditions. Courts examine whether:
+
+The debtor committed all projected disposable income to the plan
+
+The plan was not structured to minimize payments while preserving assets
+
+The debtor did not hide income or assets during the Chapter 13 case
+
+The debtor made genuine efforts to maximize payments to creditors
+
+Court determination required. Unlike the 100% exception, the 70% exception is not automatic. The court must evaluate good faith and best effort. You should have documentation of plan payments ready and should discuss this with an attorney before filing.
+
+Practical Reality: These Exceptions Rarely Apply
+
+Most Chapter 13 plans pay far less than 70% to unsecured creditors. Nationally, the median Chapter 13 plan pays unsecured creditors somewhere between 0% and 10%. The national median is closer to 3%.
+
+This means:
+
+The vast majority of debtors coming out of a completed Chapter 13 will need to wait the full 6 years before receiving a Chapter 7 discharge
+
+The 100% exception applies mostly to debtors who were already in good financial shape and filed Chapter 13 primarily to address secured debt arrearages
+
+The 70% exception applies to a slightly larger group, but "good faith" and "best effort" requirements add a layer of judicial scrutiny
+
+Check your trustee's final report. If you are close to the 70% threshold, get the exact percentage from the Chapter 13 trustee's final report or accounting. Do not estimate. The difference between 69% and 70% is the difference between a 6-year wait and no wait at all.
+
+How 727(a)(9) Compares to 727(a)(8)
+
+Feature
+727(a)(8)
+727(a)(9)
+
+Prior discharge under
+Chapter 7 or 11
+Chapter 12 or 13
+
+Waiting period
+8 years
+6 years
+
+Exceptions?
+None
+Two (100% or 70%+)
+
+Measured how?
+Filing to filing
+Filing to filing
+
+Bars what?
+Chapter 7 discharge
+Chapter 7 discharge
+
+Prevents filing?
+No
+No
+
+Chapter 12 Gets the Same Treatment
+
+Section 727(a)(9) applies identically to prior Chapter 12 discharges (family farmer reorganization). The 6-year bar and both exceptions work the same way. Chapter 12 cases are much less common than Chapter 13, but if you completed a Chapter 12 plan, the same rules apply.
+
+What If the Exception Does Not Apply?
+
+If your prior Chapter 13 plan paid less than 70% of unsecured claims, you have three options:
+
+Wait 6 years from the prior filing date and then file Chapter 7. Use the date calculator to find your exact eligible date.
+
+File Chapter 13 again. Under Section 1328(f)(2), you can file a new Chapter 13 after only 2 years from the prior Chapter 13 filing and still receive a discharge.
+
+File Chapter 11. There is no discharge bar for Chapter 11 following any prior discharge.
+
+Frequently Asked Questions
+
+Can I file Chapter 7 after completing Chapter 13?
+
+Yes, but you must wait 6 years from the filing date of the prior Chapter 13 case, unless the plan paid 100% or 70%+ in good faith. If neither exception applies, the full 6-year wait is required.
+
+What is the 70% rule?
+
+If your Chapter 13 plan paid at least 70% of allowed unsecured claims, and the plan was proposed in good faith as your best effort, the 6-year bar does not apply. All three conditions must be met, and the determination is made by the court.
+
+How do I find out what percentage my plan paid?
+
+Check the Chapter 13 trustee's final report, which is filed on the docket after all plan payments are completed. It lists the total paid to each class of creditors and the percentage of allowed unsecured claims that were paid.
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Filing Date to Filing Date -- How the Discharge Bar Is Measured -- 727(a)(8)
+Source: https://727a8.com/filing-to-filing.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Filing Date to Filing Date
+
+The most common misconception about the Chapter 7 discharge bar -- and the case law that settles it.
+
+The Rule
+
+Every discharge bar in the Bankruptcy Code -- 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2) -- is measured the same way: from the filing date of the prior case to the filing date of the new case.
+
+Not from the discharge date. Not from the date the case was closed. Not from the date you received notice of discharge. From the date the petition was filed.
+
+The statutory language: Section 727(a)(8) bars discharge when the debtor received a prior discharge "in a case commenced within 8 years before the date of the filing of the petition." A bankruptcy case is "commenced" by the filing of a petition. 11 U.S.C. Section 301.
+
+The statute does not say "within 8 years before the prior discharge was granted." It says "in a case commenced within 8 years." The word "commenced" points unambiguously to the filing date.
+
+Why People Get This Wrong
+
+The mistake is understandable. The statute mentions "discharge" prominently. People focus on that word and assume the clock starts when the discharge was entered. But read the statute carefully:
+
+The condition is a prior discharge "in a case commenced within 8 years"
+
+"Commenced" means filed -- per 11 U.S.C. Section 301: "A voluntary case under a chapter of this title is commenced by the filing with the bankruptcy court of a petition"
+
+The endpoint is also a filing date: "before the date of the filing of the petition" (the new case)
+
+Both ends of the measurement are filing dates. The discharge date appears in the statute only as a qualifying condition -- there must have been a discharge in the prior case. When it was entered is irrelevant.
+
+Case Law: In re Blendheim
+
+The leading case on this point is In re Blendheim, 803 F.3d 477 (9th Cir. 2015). The debtor argued that the 8-year period should run from the date the prior discharge order was entered. The Ninth Circuit rejected this argument.
+
+Holding: The 8-year period under Section 727(a)(8) "is measured from the date the prior case was filed -- not from the date on which the prior discharge was granted." The statute refers to a case "commenced" within 8 years, and a case is commenced when the petition is filed.
+
+This is consistent with every other court to address the question. No circuit court has held that the 8-year period runs from the discharge date.
+
+How Much Does the Mistake Cost?
+
+In a standard Chapter 7 case, the discharge is typically entered 3 to 4 months after the petition is filed. In some cases, especially those with adversary proceedings or delayed Section 341 meetings, the gap can be 6 months or more.
+
+Example: The cost of counting wrong
+
+Prior Chapter 7 filed: March 15, 2018
+
+Prior discharge entered: June 20, 2018
+
+Correct earliest refiling (from filing date): March 15, 2026
+
+Wrong calculation (from discharge date): June 20, 2026
+
+Unnecessary wait: 3 months and 5 days
+
+Three months may not sound like much, but for someone dealing with aggressive creditors, wage garnishments, or pending lawsuits, every week matters. And counting from the wrong date in the other direction -- filing too early because you miscounted -- is far worse. The discharge will be denied.
+
+All Bars Use the Same Measurement
+
+This is not unique to 727(a)(8). Every discharge timing bar in the Bankruptcy Code uses filing-to-filing measurement:
+
+727(a)(8): "case commenced within 8 years" -- filing date
+
+727(a)(9): "case commenced within 6 years" -- filing date
+
+1328(f)(1): "case filed within 4 years" -- filing date
+
+1328(f)(2): "case filed within 2 years" -- filing date
+
+109(g): 180-day filing bar -- also measured from filing/dismissal date
+
+The Bankruptcy Code is consistent on this point. Discharge dates are never part of the calculation.
+
+How to Find Your Prior Filing Date
+
+If you are unsure of the exact filing date of your prior case:
+
+PACER: Search for your name on PACER. The filing date appears on the docket header.
+
+Court clerk: Call the clerk of the bankruptcy court where the prior case was filed and ask for the petition date.
+
+Your prior filing documents: The petition date appears on the petition itself and on most court notices from the case.
+
+Discharge order: The discharge order typically states the petition date in its heading (but use the petition date, not the date the discharge order was entered).
+
+Once you have the exact filing date, use the date calculator to determine your earliest eligible date for a new filing.
+
+Frequently Asked Questions
+
+Does the 8-year rule run from the filing date or the discharge date?
+
+From filing date to filing date. The statute says "case commenced within 8 years," and a case is commenced by filing. The discharge date is irrelevant.
+
+Why do people think it runs from the discharge date?
+
+Because the statute mentions "discharge" -- but only as a condition (there must have been one), not as the measurement start date. The measurement is based on when the case was "commenced" (filed).
+
+How much difference does this mistake make?
+
+Typically 3 to 6 months. In a standard Chapter 7 case, discharge is entered about 3-4 months after filing. Counting from the wrong date means waiting months longer than necessary.
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Good Faith Exception to the 727(a)(8) Discharge Bar -- There Is None
+Source: https://727a8.com/good-faith-exception.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Good Faith Exception to 727(a)(8)
+
+There is no good faith exception. The 8-year discharge bar is absolute -- no waiver, no discretion, no exceptions.
+
+Home › Good Faith Exception
+
+The Short Answer: There Is No Good Faith Exception
+
+If you are searching for a way to get a judge to waive the 8-year Chapter 7 discharge bar under Section 727(a)(8), the answer is straightforward: there is no such mechanism. The statute is mandatory. It uses the word "shall." Courts have no discretion to shorten, waive, or modify the 8-year period for any reason -- including good faith.
+
+11 U.S.C. Section 727(a)(8): "The court shall grant the debtor a discharge, unless ... the debtor has been granted a discharge under this section, or under section 1141 of this title, in a case commenced within 8 years before the date of the filing of the petition."
+
+Notice the structure: the court shall grant a discharge unless the condition is met. If you received a Chapter 7 or Chapter 11 discharge in a case filed within the last 8 years, the court must deny your new Chapter 7 discharge. There is no qualifying language about good faith, hardship, changed circumstances, or any other equitable consideration.
+
+No attorney or court can waive this rule. If someone tells you a judge has discretion to override the 8-year bar, that is incorrect. The statute is unambiguous, and no court has ever found an exception that does not exist in the text.
+
+Why People Think a Good Faith Exception Exists
+
+The confusion usually comes from one of several sources. The Bankruptcy Code uses "good faith" in multiple places, and people sometimes assume it applies everywhere. It does not.
+
+Confusion 1: Section 727(a)(9) Does Have a Good Faith Element
+
+Section 727(a)(9) is the companion provision to 727(a)(8). It covers the situation where the prior discharge was under Chapter 13 or Chapter 12 (not Chapter 7). Under 727(a)(9), the waiting period is 6 years, not 8 -- and there are two exceptions:
+
+The bar does not apply if the prior plan paid 100% of allowed unsecured claims
+
+The bar does not apply if the prior plan paid at least 70% of allowed unsecured claims, was proposed in good faith, and represented the debtor's best effort
+
+That second exception is where "good faith" enters the picture. But it applies only to 727(a)(9) -- Chapter 7 after Chapter 13 -- not to 727(a)(8). People read about the good faith exception in the context of 727(a)(9) and mistakenly apply it to 727(a)(8). The two statutes are different.
+
+For the full breakdown, see Section 727(a)(9) -- The 6-Year Exception.
+
+Confusion 2: Section 707(b) Good Faith
+
+Section 707(b) allows a court to dismiss a Chapter 7 case if it was filed in "bad faith" or if the debtor's income is too high to qualify (the means test). People hear about "good faith" in the context of 707(b) and assume it works in reverse -- that filing in good faith might earn extra benefits or exceptions.
+
+It does not. Section 707(b) is a gatekeeping provision that can remove people from Chapter 7. It does not add benefits to people who pass. Even if you file in perfect good faith and pass the means test with room to spare, you still cannot receive a Chapter 7 discharge within 8 years of a prior Chapter 7 discharge.
+
+Confusion 3: Section 1325(a)(3) Good Faith in Chapter 13
+
+Section 1325(a)(3) requires that a Chapter 13 plan be "proposed in good faith and not by any means forbidden by law." This is a confirmation requirement for Chapter 13 plans. It has nothing to do with Chapter 7 discharge eligibility.
+
+Confusion 4: Equitable Powers Under Section 105(a)
+
+Section 105(a) gives bankruptcy courts broad equitable powers to "issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title." Some debtors wonder whether a judge could use Section 105(a) to override the 8-year bar in compelling circumstances.
+
+Courts have consistently held that Section 105(a) cannot be used to override specific statutory requirements. The 8-year bar is a specific, mandatory rule. A court cannot use its general equitable powers to create an exception that Congress chose not to include.
+
+Key distinction: Section 727(a)(8) (Chapter 7 after Chapter 7) has zero exceptions. Section 727(a)(9) (Chapter 7 after Chapter 13) has two exceptions, including one involving good faith. These are different statutes with different rules. Do not confuse them.
+
+The "Shall" Language -- Why It Matters
+
+In statutory interpretation, the word "shall" creates a mandatory duty. When Congress wrote Section 727(a)(8), it used "shall" deliberately. The court shall grant a discharge unless the debtor received a prior discharge within 8 years. If the condition is triggered, denial is automatic.
+
+Compare this to statutes that use "may," which grants discretion. For example, Section 707(b)(1) says the court "may dismiss" a case for abuse. The word "may" gives the court a choice. Section 727(a)(8) gives no such choice.
+
+Congress knows the difference between "shall" and "may." When it wanted to give courts discretion, it used "may." When it wanted a hard rule, it used "shall." The 8-year bar is a hard rule.
+
+Mandatory vs. discretionary language:
+
+Section 727(a)(8): "The court shall grant ... unless ..." -- mandatory, no discretion
+
+Section 707(b)(1): "The court ... may dismiss ..." -- discretionary
+
+Section 1325(b)(1): "The court may not approve ..." -- mandatory prohibition
+
+Your Real Options Inside the 8-Year Window
+
+If you are within the 8-year window and cannot wait for it to expire, you are not without options. The Bankruptcy Code offers several alternatives to a Chapter 7 discharge:
+
+Option 1: File Chapter 13 Instead
+
+Under Section 1328(f)(1), a debtor who received a Chapter 7 discharge can receive a Chapter 13 discharge after only 4 years from the filing date of the prior Chapter 7 case. This is often the best path for people in the 4-to-8-year window.
+
+Chapter 13 requires a regular income and involves a 3-to-5-year repayment plan, but it provides a discharge of most remaining unsecured debt at completion. For more details, see Chapter 13 After Chapter 7.
+
+The 4-year shortcut: If your prior Chapter 7 was filed more than 4 years ago but less than 8, you may be eligible for a Chapter 13 discharge right now. Use the date calculator to check.
+
+Option 2: Wait for the 8 Years to Pass
+
+If you are close to the 8-year mark, waiting may be the simplest option. Use the date calculator to find your exact earliest eligible date. Remember that the clock runs from filing date to filing date, not from the discharge date -- so you may be eligible sooner than you think.
+
+Option 3: File Chapter 11
+
+There is no discharge bar for Chapter 11 following any prior discharge. You can file a Chapter 11 case at any time, regardless of when your last discharge was granted. However, Chapter 11 is significantly more complex and expensive than Chapter 7 or 13, involves higher filing fees ($1,738 for individuals), and requires court approval of a plan of reorganization. This option is rarely practical for individual consumer debtors.
+
+Option 4: Hardship Discharge (If Already in Chapter 13)
+
+If you are currently in a Chapter 13 case and experiencing severe hardship that prevents plan completion, Section 1328(b) provides for a "hardship discharge." This discharge is narrower than a standard Chapter 13 discharge and requires meeting specific conditions, including that the debtor's failure to complete the plan is due to circumstances beyond their control.
+
+Option 5: Consider Whether You Actually Need to File
+
+Before assuming you need another bankruptcy filing, consider whether your situation actually requires it. In some cases, debts may be:
+
+Beyond the statute of limitations for collection lawsuits in your state
+
+Already uncollectible as a practical matter
+
+Exempt from garnishment under state law
+
+Eligible for settlement or negotiation outside of bankruptcy
+
+A consultation with a bankruptcy attorney can help determine whether filing again is truly necessary or whether other options might work.
+
+Side-by-Side: 727(a)(8) vs. 727(a)(9) on Good Faith
+
+Feature
+727(a)(8)
+727(a)(9)
+
+Prior discharge under
+Chapter 7 or 11
+Chapter 12 or 13
+
+Waiting period
+8 years
+6 years
+
+Good faith exception?
+No
+Yes (70%+ rule)
+
+Any exceptions at all?
+None
+Two (100% or 70%+)
+
+Judicial discretion?
+None
+Limited (evaluating good faith)
+
+Can Section 105(a) override?
+No
+No
+
+Frequently Asked Questions
+
+Can a judge waive the 8-year rule?
+
+No. Section 727(a)(8) is mandatory. The court must deny the discharge if the prior case was filed within 8 years. No judge has the authority to waive this rule under any circumstances, including good faith, hardship, or changed circumstances.
+
+What if I filed in good faith?
+
+Good faith is irrelevant to Section 727(a)(8). The statute does not consider why you filed, whether you were honest, or whether your prior case involved any misconduct. The only question is whether the prior case was filed within 8 years. If it was, the discharge is barred.
+
+What are my options inside the 8-year window?
+
+File Chapter 13 (eligible after 4 years from the prior filing), wait for the 8 years to pass, or file Chapter 11 (no discharge bar). If already in Chapter 13, a hardship discharge under Section 1328(b) may be available. You may also find that some debts are beyond the statute of limitations or otherwise uncollectible without filing again.
+
+Does 727(a)(9) have a good faith exception?
+
+Yes, but only for Chapter 7 after Chapter 13 (or Chapter 12). If the prior plan paid at least 70% of unsecured claims in good faith as the debtor's best effort, the 6-year bar does not apply. This exception does not exist for the 8-year bar under 727(a)(8). See The 6-Year Exception for details.
+
+Related Resources
+
+Discharge Bars -- All time limits between bankruptcy discharges by chapter
+
+Section 1328 Discharge -- Chapter 13 discharge rules, including the 4-year window
+
+Automatic Stay -- How the stay works for repeat filers
+
+Section 109(g) -- The 180-day filing bar (different from the discharge bar)
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Section 727(a)(8) -- Bankruptcy Discharge Waiting Period [2026]
+Source: https://727a8.com/
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Section 727(a)(8) Discharge Waiting Period
+
+When can you file Chapter 7 again after a prior Chapter 7 discharge?
+
+8 years from filing date to filing date.
+
+Not from the discharge date. Not from when the case closed. From the date you filed the prior case to the date you file the new one.
+
+Network › 727(a)(8) Discharge Bar
+
+Date Calculator
+
+Enter your prior filing date, see your earliest eligible date instantly.
+
+The 6-Year Exception
+
+Section 727(a)(9) -- filing Chapter 7 after Chapter 13 with a shorter wait.
+
+Filing Date to Filing Date
+
+The most common misconception about how the 8-year bar is measured.
+
+Chapter 13 After Chapter 7
+
+The 4-year bar under Section 1328(f)(1) and why you might want Chapter 13.
+
+All Bars Compared
+
+Every discharge bar in the Bankruptcy Code in one table with visual timeline.
+
+Case Law
+
+Key court decisions interpreting Section 727(a)(8) and 727(a)(9).
+
+What Is Section 727(a)(8)?
+
+Section 727(a)(8) of the Bankruptcy Code is the federal statute that prevents a debtor from receiving a Chapter 7 discharge if they already received a discharge in a prior Chapter 7 or Chapter 11 case that was filed within the last 8 years. It is the longest discharge waiting period in the entire Bankruptcy Code.
+
+The statute is short and absolute. There are no exceptions, no waivers, and no judicial discretion. If your prior case was filed less than 8 years before your new case, the court must deny your Chapter 7 discharge.
+
+11 U.S.C. Section 727(a)(8): "The court shall grant the debtor a discharge, unless ... the debtor has been granted a discharge under this section, or under section 1141 of this title, in a case commenced within 8 years before the date of the filing of the petition."
+
+This is a discharge bar, not a filing bar. You can still file a Chapter 7 case at any time. The court will accept your petition, assign a case number, and trigger the automatic stay protection in bankruptcy. A trustee will be appointed. Everything proceeds normally -- right up until the point where the court is supposed to grant your discharge. At that point, the discharge is denied. Your case closes, your non-exempt assets may have been liquidated, and you walk away with nothing.
+
+Check Your Discharge Eligibility
+
+Enter your prior filing date and find out exactly when you can file again.
+
+Open Calculator
+or
+Compare All Discharge Bars
+
+How the 8 Years Is Calculated
+
+The 8-year clock runs from filing date to filing date. Not from the date the prior discharge was entered. Not from the date the prior case was closed.
+
+The clock starts on the date the prior Chapter 7 or Chapter 11 case was filed
+
+The clock ends on the date the new Chapter 7 case is filed
+
+The date the prior discharge was entered is irrelevant
+
+Example: Prior Chapter 7 filed June 15, 2018. Prior discharge entered September 22, 2018. Earliest new Chapter 7 filing for discharge: June 15, 2026. The discharge date does not matter.
+
+Common mistake: Counting 8 years from the discharge date instead of the filing date. This error adds 3 to 6 months to the waiting period unnecessarily. Many debtors and some attorneys make this mistake. Always count from the filing date.
+
+For a deep dive into this measurement rule and the case law behind it, see Filing Date to Filing Date.
+
+To calculate your specific date instantly, use the Date Calculator.
+
+All Discharge Waiting Periods at a Glance
+
+Section 727(a)(8) is not the only bankruptcy discharge bar rules. The Bankruptcy Code contains several, spread across multiple sections. Here are the key combinations:
+
+Prior Discharge
+New Case
+Wait
+Statute
+
+Chapter 7
+Chapter 7
+8 years
+727(a)(8)
+
+Chapter 11
+Chapter 7
+8 years
+727(a)(8)
+
+Chapter 13
+Chapter 7
+6 years*
+727(a)(9)
+
+Chapter 12
+Chapter 7
+6 years*
+727(a)(9)
+
+Chapter 7
+Chapter 13
+4 years
+1328(f)(1)
+
+Chapter 13
+Chapter 13
+2 years
+1328(f)(2)
+
+Any chapter
+Chapter 11
+No bar
+--
+
+* Exceptions for 100% plans or 70%+ good-faith/best-effort plans. All periods filing date to filing date. See full comparison.
+
+What 727(a)(8) Does NOT Do
+
+It does not bar filing. You can file a Chapter 7 case at any time. The statute only bars discharge. (Compare with Section 109(g), which bars filing entirely.)
+
+It does not bar Chapter 13. If you received a Chapter 7 discharge and want to file again within 8 years, you can file Chapter 13 and potentially receive a discharge after 4 years under Section 1328 discharge requirements(f)(1).
+
+It does not apply to dismissed cases. If your prior case was dismissed (not discharged), 727(a)(8) does not apply. A dismissed case produces no discharge.
+
+It does not apply to denied discharges. If the court denied your prior discharge for fraud or other grounds, no discharge was "granted" and the 8-year bar is not triggered.
+
+It does not affect the automatic stay. Even if your case is subject to the 727(a)(8) bar, you get the full automatic stay (unless limited by Sections 362(c)(3) or (c)(4) for serial filings).
+
+What Happens If You File Too Early
+
+Filing a Chapter 7 before the 8-year bar expires does not prevent the case from proceeding. The court accepts your petition, assigns a case number, and the automatic stay takes effect. A trustee is appointed. The 341 meeting is scheduled. Everything proceeds normally.
+
+The problem comes at the end. When the court is supposed to grant your discharge, the U.S. Trustee, case trustee, a creditor, or the court itself will object. The discharge is denied. You are left with:
+
+All debts surviving. Every debt you listed remains fully enforceable.
+
+Lost assets. If the trustee liquidated non-exempt property, you do not get it back.
+
+Bankruptcy on your credit report. For up to 10 years, with no discharge benefit.
+
+Wasted fees. The $338 filing fee and attorney fees (typically $1,000 to $2,500) are not refunded.
+
+Bottom line: Filing Chapter 7 when you are ineligible for discharge under 727(a)(8) is almost always a costly mistake. Check your eligibility first with the date calculator or the 1328f.com screener.
+
+Section 727(a)(9) -- The 6-Year Exception
+
+Section 727(a)(9) is the companion to 727(a)(8). It applies when the prior discharge was under Chapter 12 or Chapter 13 (not Chapter 7 or 11). The bar is shorter -- 6 years instead of 8 -- and it has two exceptions.
+
+If the prior Chapter 13 plan paid 100% of allowed unsecured claims, or paid at least 70% in good faith with best effort, the 6-year bar does not apply.
+
+Practical reality: Most Chapter 13 plans pay far less than 70% to unsecured creditors. The median Chapter 13 plan pays between 0% and 10%. The 727(a)(9) exceptions rarely apply in practice.
+
+For the full breakdown, see Section 727(a)(9) -- The 6-Year Exception.
+
+Check Your Discharge Eligibility
+
+Not sure whether a prior case affects your eligibility? Use the date calculator or the full screener.
+
+Date Calculator
+Full Discharge Screener
+
+Frequently Asked Questions
+
+How long do you have to wait to file Chapter 7 again?
+
+8 years from filing date to filing date. Under Section 727(a)(8), the court will deny a Chapter 7 discharge if the debtor received a discharge in a prior Chapter 7 or Chapter 11 case filed within 8 years before the current case was filed.
+
+Does the 8-year rule run from the filing date or the discharge date?
+
+From filing date to filing date. The date the prior discharge was entered is irrelevant. See Filing Date to Filing Date for the case law and common mistakes.
+
+Can I file Chapter 7 after Chapter 13?
+
+Yes, but a 6-year waiting period applies under Section 727(a)(9). Exceptions exist for plans that paid 100% or 70%+ of unsecured claims in good faith.
+
+What happens if I file Chapter 7 before the 8 years are up?
+
+You can file the case and the automatic stay will take effect, but your discharge will be denied. Your non-exempt assets can still be liquidated. You bear all costs with no benefit.
+
+Is there a way to file bankruptcy sooner than 8 years?
+
+Yes. You can file Chapter 13 after only 4 years from a prior Chapter 7 filing. You can also file Chapter 11 at any time -- there is no discharge bar for Chapter 11 following Chapter 7.
+
+Legal References
+
+11 U.S.C. Section 727 -- Discharge (Chapter 7)
+
+11 U.S.C. Section 1328 -- Discharge (Chapter 13)
+
+11 U.S.C. Section 109 -- Who may be a debtor
+
+11 U.S.C. Section 362 -- Automatic stay
+
+11 U.S.C. Section 1141 -- Chapter 11 discharge
+
+Fed. R. Bankr. P. 4004 -- Grant or denial of discharge
+
+Related Resources
+
+The 180-Day Filing Bar -- When you must wait before filing again under Section 109(g)
+
+Discharge Bars -- Time limits between bankruptcy discharges by chapter
+
+Section 1328 Discharge -- Chapter 13 discharge rules and the superdischarge
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+🆕 New Resources
+
+📍 Bankruptcy guides for all 50 states
+
+🌎 Guias en Espanol
+
+📖 61-term bankruptcy glossary
+
+🧮 Full Part 1 & Part 2 means test calculator
+
+📰 Latest bankruptcy data analysis
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Cited by the federal judiciary -- This tool's data was accepted by the Advisory Committee on Bankruptcy Rules as Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Filed Before? Your Next Questions
+
+Real users follow this path -- we built it so you don't have to search.
+
+Can I Keep My Car?
+
+Vehicle exemptions, reaffirmation, and cramdown options
+
+keepmycarinbankruptcy.com →
+
+Can I Keep My House?
+
+Homestead exemptions and mortgage options in bankruptcy
+
+keepmyhouseinbankruptcy.com →
+
+Chapter 7 vs Chapter 13
+
+Which chapter is right for your second filing?
+
+chapter7vs13.org →
+
+180-Day Filing Bar
+
+The other refiling restriction you need to know about
+
+109g.org →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+dischargebar.org
+section1328.org
+bankruptcymill.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Bankruptcy Discharge Bar Rules by State -- What Your State Exemptions Mean -- 727(a)(8)
+Source: https://727a8.com/state-by-state.html
+
+Skip to main content
+
+727a8.com
+☰
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+
+Discharge Bar Rules by State
+
+The 8-year rule is federal and applies everywhere. But state exemptions change your repeat-filing strategy entirely.
+
+Home › By State
+
+The 8-Year Bar Is Federal -- No State Variation
+
+Section 727(a)(8) is a federal statute. It applies identically in all 50 states, the District of Columbia, Puerto Rico, and every other US jurisdiction with a bankruptcy court. No state legislature can shorten, lengthen, or modify the 8-year waiting period between Chapter 7 discharges.
+
+Whether you file in Texas, New York, California, Kansas, or anywhere else, the rule is the same: 8 years from filing date to filing date.
+
+Federal uniformity: The Bankruptcy Clause of the US Constitution (Article I, Section 8, Clause 4) grants Congress exclusive power over bankruptcy law. States cannot create their own discharge waiting periods or modify the ones Congress established.
+
+So why does a "by state" page exist? Because while the discharge bar itself is uniform, the state exemption laws that interact with bankruptcy filings vary enormously -- and those variations dramatically affect your repeat-filing strategy.
+
+Why State Exemptions Matter for Repeat Filers
+
+When you file Chapter 7, a bankruptcy trustee can liquidate your non-exempt property to pay creditors. The property you get to keep is determined by your state's exemption laws (or the federal exemptions, if your state allows that choice).
+
+For someone considering a repeat filing, exemption laws affect the calculus in several important ways:
+
+Generous exemption states let you keep more property in Chapter 7, making repeat Chapter 7 filings less risky
+
+Restrictive exemption states put more of your property at risk in Chapter 7, making Chapter 13 (which protects all property) more attractive
+
+Homestead exemptions vary the most -- from unlimited (Texas, Florida) to under $30,000 (some states)
+
+Wildcard exemptions can protect assets that do not fit into specific categories
+
+If you are deciding between waiting for the 8-year window to reopen for Chapter 7 or filing Chapter 13 now (eligible after 4 years), your state's exemption laws should be a major factor in that decision.
+
+State Exemption Generosity -- Three Tiers
+
+States fall roughly into three groups based on how generous their exemption laws are for consumer debtors. This is a general guide -- specific exemption amounts change frequently and your individual situation matters more than any generalization.
+
+Generous Exemption States
+
+These states offer strong protections, especially for homeowners. In these states, Chapter 7 is often the preferred choice even for repeat filers because you are less likely to lose property.
+
+State
+Key Feature
+
+Texas
+Unlimited homestead (10 acres urban, 100 acres rural)
+
+Florida
+Unlimited homestead value (half acre urban, 160 acres rural)
+
+Kansas
+Unlimited homestead (1 acre urban, 160 acres rural)
+
+Iowa
+Unlimited homestead value (half acre urban, 40 acres rural)
+
+South Dakota
+Unlimited homestead (1 acre urban, 160 acres rural)
+
+Oklahoma
+Unlimited homestead value (urban lot limits apply)
+
+Minnesota
+$450,000 homestead + generous personal property
+
+Nevada
+$605,000 homestead
+
+Massachusetts
+$500,000 homestead (automatic) + $1M declared
+
+In generous exemption states: Chapter 7 repeat filings are generally less risky because you keep most or all of your property. Waiting for the 8-year window may be worth it if you have significant exempt assets.
+
+Moderate Exemption States
+
+These states offer reasonable protections but may leave significant assets exposed, especially for homeowners with substantial equity.
+
+State
+Key Feature
+
+California
+$300,000-$600,000 homestead (varies by county median home price)
+
+Missouri
+$15,000 homestead + generous personal property
+
+Michigan
+$44,625 homestead + federal exemption option
+
+Ohio
+$145,425 homestead
+
+Illinois
+$15,000 homestead + strong wildcard
+
+Washington
+$125,000 homestead
+
+Colorado
+$250,000 homestead ($350,000 if elderly/disabled)
+
+Restrictive Exemption States
+
+These states offer limited protection, particularly for real property. In these states, Chapter 13 -- which protects all property -- may be the better option for repeat filers.
+
+State
+Key Feature
+
+New Jersey
+No homestead exemption
+
+Maryland
+$25,150 homestead
+
+Delaware
+$125,000 homestead (recently increased)
+
+Georgia
+$21,500 homestead
+
+Kentucky
+$5,000 homestead
+
+Alabama
+$16,450 homestead
+
+Virginia
+$5,000-$25,000 homestead (varies)
+
+In restrictive exemption states: A repeat Chapter 7 filing could expose significant property to liquidation. Chapter 13 may be the safer route because it allows you to keep all property while making plan payments. Consider this carefully before deciding to wait for the 8-year window.
+
+Federal vs. State Exemptions -- The Choice
+
+Some states allow debtors to choose between the state exemption scheme and the federal exemption scheme under 11 U.S.C. Section 522(d). Other states have "opted out" of the federal exemptions, requiring debtors to use state exemptions only.
+
+States That Allow Federal Exemptions
+
+In these states, you can choose whichever set of exemptions -- state or federal -- is more favorable for your situation:
+
+Alaska, Arkansas, Connecticut, Delaware, District of Columbia, Hawaii, Kentucky, Maine, Massachusetts, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Vermont, Washington, Wisconsin
+
+The federal homestead exemption (as of 2026) is approximately $27,900 per person ($55,800 for married couples filing jointly). The federal wildcard exemption adds approximately $1,475 plus up to $13,100 of any unused homestead exemption. These amounts are adjusted every 3 years for inflation.
+
+States That Require State Exemptions Only
+
+The remaining states have opted out of the federal exemption scheme. In these states, you must use the state's own exemption laws. This is not necessarily bad -- some opt-out states (like Florida and Kansas) have extremely generous state exemptions.
+
+The 2-Year Domicile Rule
+
+You cannot simply move to a state with better exemptions and file immediately. Section 522(b)(3)(A) requires that you use the exemptions of the state where you were domiciled for the 730 days (2 years) before filing your bankruptcy petition.
+
+11 U.S.C. Section 522(b)(3)(A): The debtor uses the exemptions of the state in which "the debtor's domicile has been located for the 730 days immediately preceding the date of the filing of the petition."
+
+If you have not lived in your current state for at least 2 years, you must use the exemptions of the state where you lived before. If you moved multiple times, the rule looks at where you were domiciled for the 180-day period before the 730-day lookback (essentially 910 days before filing).
+
+Anti-forum-shopping rule: This provision was added by BAPCPA in 2005 specifically to prevent people from moving to Texas or Florida right before filing to take advantage of unlimited homestead exemptions. If you moved recently, consult a local bankruptcy attorney about which state's exemptions apply to you.
+
+How Exemptions Affect the Ch.7 vs. Ch.13 Decision
+
+When you are inside the 8-year window and deciding whether to wait for Chapter 7 or file Chapter 13 now, your state's exemptions should factor heavily into the decision:
+
+If you are in a generous exemption state (Texas, Florida, Kansas) and your main assets are exempt, waiting for Chapter 7 may be the best strategy. You will get a clean discharge and keep your property.
+
+If you are in a restrictive exemption state (New Jersey, Kentucky, Alabama) and have significant home equity or other non-exempt assets, Chapter 13 may be better. Under Chapter 13, you keep all property and pay creditors through a plan over 3-5 years.
+
+If you are renting and have minimal assets, state exemptions matter less. Most personal property exemptions -- even in restrictive states -- cover the basics (furniture, clothing, a modest vehicle).
+
+If you own a business, the analysis is more complex. Business assets may or may not be exempt depending on your state and how the business is structured.
+
+Chapter 13 protects everything. Regardless of your state's exemption laws, Chapter 13 allows you to keep all property as long as your plan pays unsecured creditors at least as much as they would receive in a Chapter 7 liquidation (the "best interest of creditors" test under Section 1325(a)(4)).
+
+Frequently Asked Questions
+
+Does the 8-year rule vary by state?
+
+No. Section 727(a)(8) is a federal statute that applies identically in all states. No state can modify the 8-year waiting period. The rule is the same everywhere: 8 years from filing date to filing date.
+
+Which states have the best bankruptcy exemptions?
+
+Texas, Florida, Kansas, Iowa, South Dakota, and Oklahoma offer unlimited homestead exemptions, making them the most generous for homeowners. Massachusetts, Nevada, and Minnesota also offer strong protections. The "best" state depends on your specific assets -- someone with a valuable home benefits most from an unlimited homestead exemption, while someone with no home may benefit more from a strong wildcard exemption.
+
+Can I move to a different state before filing?
+
+You can move, but you must live in the new state for at least 730 days (2 years) before the new state's exemptions apply to your bankruptcy filing. If you file before the 2-year mark, you use the exemptions of your prior state. This rule exists specifically to prevent forum shopping.
+
+Do state exemptions affect the 8-year bar itself?
+
+No. State exemptions have nothing to do with the discharge waiting period. They affect what property you keep in Chapter 7. The 8-year bar is purely a time calculation -- prior filing date to new filing date -- and no exemption law changes it.
+
+Related Resources
+
+Bankruptcy Exemptions -- Detailed exemption guides by state
+
+Means Test -- Chapter 7 income eligibility by state
+
+How to File Bankruptcy -- Step-by-step filing guide
+
+Chapter 13 After Chapter 7 -- The 4-year alternative to waiting 8 years
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free.
+
+Cited by the federal judiciary -- Suggestion 26-BK-3
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com
+1328f.org
+109g.org
+dischargebar.org
+section1328.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## 727(a)(8) vs 1328(f): Which Discharge Bar Applies to You?
+Source: https://727a8.com/vs-1328f.html
+
+☰ Menu
+
+Home
+Calculator
+6-Year Exception
+Filing Dates
+Ch.13 After Ch.7
+Compare All
+Good Faith
+By State
+Mistakes
+|
+727(a)(9)
+727 vs 1328(f)
+Case Law
+
+Skip to main content
+
+727a8.com
+
+727(a)(8) vs 1328(f) -- Which Discharge Bar Applies?
+
+The Complete Discharge Bar Table
+
+The Bankruptcy Code contains four main time-based discharge bars that apply to repeat filers. Which one applies depends on two things: the chapter of your prior case and the chapter of your new case. All periods are measured from filing date to filing date.
+
+Prior Discharge
+New Case
+Wait
+Statute
+Exception
+
+Chapter 7
+Chapter 7
+8 years
+727(a)(8)
+None
+
+Chapter 11
+Chapter 7
+8 years
+727(a)(8)
+None
+
+Chapter 13
+Chapter 7
+6 years
+727(a)(9)
+100% paid, or 70% + good faith
+
+Chapter 12
+Chapter 7
+6 years
+727(a)(9)
+100% paid, or 70% + good faith
+
+Chapter 7
+Chapter 13
+4 years
+1328(f)(1)
+None
+
+Chapter 11
+Chapter 13
+4 years
+1328(f)(1)
+None
+
+Chapter 12
+Chapter 13
+4 years
+1328(f)(1)
+None
+
+Chapter 13
+Chapter 13
+2 years
+1328(f)(2)
+None
+
+Key Pattern
+
+The bars are asymmetric. Filing Chapter 7 after Chapter 7 requires an 8-year wait, but filing Chapter 13 after Chapter 13 requires only a 2-year wait. This design reflects Congress's view that Chapter 13 repayment plans pose less abuse risk than Chapter 7 liquidation.
+
+Section 727(a)(8) -- Chapter 7 After Chapter 7
+
+Section 727(a)(8) is the strictest discharge bar: a full 8 years, with no exceptions. If you received a Chapter 7 discharge in a case filed within the past 8 years, you cannot receive another Chapter 7 discharge. Period.
+
+This statute also covers the relatively rare case of an individual Chapter 11 discharge. If your prior discharge was under Section 1141 (Chapter 11), the same 8-year bar applies to a subsequent Chapter 7 filing.
+
+Section 727(a)(9) -- Chapter 7 After Chapter 13
+
+Section 727(a)(9) imposes a 6-year bar on Chapter 7 after a Chapter 13 (or Chapter 12) discharge. Unlike 727(a)(8), this bar has exceptions. If you paid 100% of unsecured claims, or paid at least 70% in good faith with best effort, the bar does not apply.
+
+This exception exists because Chapter 13 debtors who pay a high percentage of their debts are not abusing the system by subsequently filing Chapter 7. They earned the right to a fresh start by making substantial repayments.
+
+Section 1328(f) -- Chapter 13 Discharge Bars
+
+Section 1328(f) was created by BAPCPA in 2005 and has two subsections:
+
+1328(f)(1) -- Chapter 13 After Chapter 7, 11, or 12
+
+If you received a discharge under Section 727 (Chapter 7), 1141 (Chapter 11), or 1228 (Chapter 12) in a case filed within 4 years before the new Chapter 13 filing, the court may not grant a Chapter 13 discharge.
+
+This does not prevent you from filing Chapter 13. You can still file for the automatic stay and the structured repayment plan. But you will not receive a discharge at the end of the plan. For some debtors, particularly those facing imminent foreclosure or wage garnishment, a Chapter 13 without discharge can still provide meaningful relief.
+
+1328(f)(2) -- Chapter 13 After Chapter 13
+
+If you received a Chapter 13 discharge in a case filed within 2 years before the new Chapter 13 filing, the court may not grant a discharge. This is the shortest bar in the system, reflecting the lower abuse concern for debtors who complete repayment plans.
+
+For a deeper explanation of Section 1328(f), see the 1328(f) explainer on 1328f.com.
+
+What About Section 109(g)?
+
+Section 109(g) is different from the discharge bars above. It is a filing bar, not a discharge bar. It prevents you from filing any bankruptcy case for 180 days if your prior case was dismissed under certain circumstances:
+
+Dismissed for willful failure to abide by court orders or appear before the court (Section 109(g)(1))
+
+You requested and obtained voluntary dismissal after a creditor sought Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">relief from stay (Section 109(g)(2))
+
+Section 109(g) applies to all chapters and prevents filing entirely, not just the discharge. For more, see the Section 109(g) explainer on 1328f.com.
+
+How to Read the Table: Common Scenarios
+
+Scenario 1: Filed Chapter 7 three years ago, want to file Chapter 7 again
+
+You are within the 8-year window under 727(a)(8). You cannot get a Chapter 7 discharge. Your options: wait 5 more years, or file Chapter 13 instead (but 1328(f)(1) will bar your Chapter 13 discharge since you are within 4 years).
+
+Scenario 2: Completed Chapter 13 four years ago, want to file Chapter 7
+
+You are within the 6-year window under 727(a)(9). But if you paid 70%+ of unsecured claims in good faith with best effort, the bar does not apply. Check your trustee's final report.
+
+Scenario 3: Filed Chapter 7 five years ago, want to file Chapter 13
+
+The 727(a)(8) bar (8 years for Ch7-to-Ch7) does not apply because you are filing Chapter 13, not Chapter 7. But 1328(f)(1) imposes a 4-year bar on Chapter 13 discharge after Chapter 7. Since 5 years have passed, you are outside the 4-year window. You can file Chapter 13 and receive a discharge.
+
+Scenario 4: Completed Chapter 13 one year ago, want to file Chapter 13 again
+
+You are within the 2-year window under 1328(f)(2). You can file Chapter 13 for the automatic stay and repayment plan, but you will not receive a discharge at the end.
+
+Use Our Tools
+
+727a8.com Date Calculator -- calculate your Chapter 7 eligibility date
+
+1328f.com Eligibility Screener -- check all discharge bars across all chapters at once
+
+1328f.com Compare All Bars -- interactive comparison tool
+
+Not Legal Advice
+
+This comparison is general educational information. The interaction between these statutes can be complex, and local court practices may vary. Consult a bankruptcy attorney for advice specific to your situation.
+
+Further Reading & Resources
+
+Authority sources for deeper research on repeat bankruptcy filings and filing bars:
+
+11 U.S.C. Section 727(a)(8)-(9)
+Cornell LII -- Chapter 7 filing bars
+
+11 U.S.C. Section 1328(f)
+Cornell LII -- Chapter 13 filing bars
+
+11 U.S.C. Section 109(g)
+Cornell LII -- 180-day bar
+
+Bankruptcy Basics
+USCourts.gov
+
+1328(f) Screening Tool
+Open Bankruptcy Project screener
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Serial Filing Research
+Google Scholar
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Time limits for filing bankruptcy again
+
+canifileagain.org →
+
+Discharge Bars Compared
+
+All discharge time bars compared side by side
+
+dischargebar.org →
+
+File Bankruptcy Again
+
+Free bankruptcy information guide
+
+filebankruptcyagain.com →
+
+Related Guides
+
+Chapter 7 vs Chapter 13 Comparison
+
+Chapter 7 Filing Bar Rules
+
+Bankruptcy Means Test Calculator
+
+What is Chapter 7 Bankruptcy?
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project:
+
+1328f.com --
+1328f.org --
+727a8.com
+
+727(a)(8) Explained
+Date Calculator
+727(a)(9)
+Case Law
+
+© 2026 727a8.com. Educational use. Not legal advice.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
