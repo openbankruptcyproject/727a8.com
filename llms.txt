@@ -1,22 +1,23 @@
-# Section 727(a)(8) -- Bankruptcy Discharge Waiting Period [2026]
+# Section 727(a)(8) - Bankruptcy Discharge Waiting Period [2026]
 > Section 727(a)(8) bars Chapter 7 discharge within 8 years of a prior filing. Calculate your eligibility date with our free 2026 screener.
 
 ## About
 727a8.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Section 727(a)(9): Chapter 7 After Chapter 13 -- 6-Year Bar -- 727(a)(8): https://727a8.com/727a9.html
-- All Bankruptcy Discharge Bars Compared -- 727(a)(8), 727(a)(9), 1328(f), 109(g): https://727a8.com/all-bars-compared.html
-- When Can I File Chapter 7 Again? Free Date Calculator -- 727(a)(8): https://727a8.com/calculator.html
-- Key Cases on Section 727(a)(8) -- 8-Year Discharge Bar Case Law: https://727a8.com/case-law.html
-- Filing Chapter 13 After Chapter 7 -- Section 1328(f)(1) 4-Year Bar -- 727(a)(8): https://727a8.com/chapter-13-after-7.html
-- 7 Common Mistakes When Refiling Chapter 7 After a Prior Bankruptcy -- 727(a)(8): https://727a8.com/common-mistakes.html
-- Section 727(a)(9) -- The 6-Year Exception: Chapter 7 After Chapter 13 -- 727(a)(8): https://727a8.com/exceptions.html
-- Filing Date to Filing Date -- How the Discharge Bar Is Measured -- 727(a)(8): https://727a8.com/filing-to-filing.html
-- Good Faith Exception to the 727(a)(8) Discharge Bar -- There Is None: https://727a8.com/good-faith-exception.html
-- Section 727(a)(8) -- Bankruptcy Discharge Waiting Period: https://727a8.com/
-- Bankruptcy Discharge Bar Rules by State -- What Your State Exemptions Mean -- 727(a)(8): https://727a8.com/state-by-state.html
+- Section 727(a)(9): Chapter 7 After Chapter 13 - 6-Year Bar - 727(a)(8): https://727a8.com/727a9.html
+- All Bankruptcy Discharge Bars Compared - 727(a)(8), 727(a)(9), 1328(f), 109(g): https://727a8.com/all-bars-compared.html
+- When Can I File Chapter 7 Again? Free Date Calculator - 727(a)(8): https://727a8.com/calculator.html
+- Key Cases on Section 727(a)(8) - 8-Year Discharge Bar Case Law: https://727a8.com/case-law.html
+- Filing Chapter 13 After Chapter 7 - Section 1328(f)(1) 4-Year Bar - 727(a)(8): https://727a8.com/chapter-13-after-7.html
+- 7 Common Mistakes When Refiling Chapter 7 After a Prior Bankruptcy - 727(a)(8): https://727a8.com/common-mistakes.html
+- Section 727(a)(9) - The 6-Year Exception: Chapter 7 After Chapter 13 - 727(a)(8): https://727a8.com/exceptions.html
+- Filing Date to Filing Date - How the Discharge Bar Is Measured - 727(a)(8): https://727a8.com/filing-to-filing.html
+- Good Faith Exception to the 727(a)(8) Discharge Bar - There Is None: https://727a8.com/good-faith-exception.html
+- Section 727(a)(8) - Bankruptcy Discharge Waiting Period: https://727a8.com/
+- Bankruptcy Discharge Bar Rules by State - What Your State Exemptions Mean - 727(a)(8): https://727a8.com/state-by-state.html
 - 727(a)(8) vs 1328(f): Which Discharge Bar Applies to You?: https://727a8.com/vs-1328f.html
+- Privacy Policy: https://727a8.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
