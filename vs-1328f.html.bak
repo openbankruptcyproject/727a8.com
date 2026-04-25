@@ -18,21 +18,21 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Section 727(a)(9): Chapter 7 After Chapter 13 - 6-Year Bar - 727(a)(8)</title>
-<meta content="Learn about section 727(a)(9): chapter 7 after chapter 13 - 6-year bar explained | 727a8.com in our free 2026 guide. [727(a)(8)]" name="description"/>
-<link href="https://727a8.com/727a9.html" rel="canonical"/>
+<title>727(a)(8) vs 1328(f): Which Discharge Bar Applies to You?</title>
+<meta content="Learn about 727(a)(8) vs 1328(f): which discharge bar applies to you? | 727a8.com in our free 2026 guide." name="description"/>
+<link href="https://727a8.com/vs-1328f.html" rel="canonical"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <!-- Open Graph -->
-<meta content="Section 727(a)(9): Chapter 7 After Chapter 13 - 6-Year Bar - 727(a)(8)" property="og:title"/>
-<meta content="Learn about section 727(a)(9): chapter 7 after chapter 13 - 6-year bar explained | 727a8.com in our free 2026 guide. [727(a)(8)]" property="og:description"/>
+<meta content="727(a)(8) vs 1328(f): Which Discharge Bar Applies to You?" property="og:title"/>
+<meta content="Learn about 727(a)(8) vs 1328(f): which discharge bar applies to you? | 727a8.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://727a8.com/727a9.html" property="og:url"/>
+<meta content="https://727a8.com/vs-1328f.html" property="og:url"/>
 <meta content="https://727a8.com/og-image.png" property="og:image"/>
 <meta content="727a8.com" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Section 727(a)(9): Chapter 7 After Chapter 13 - 6-Year Bar - 727(a)(8)" name="twitter:title"/>
-<meta content="Learn about section 727(a)(9): chapter 7 after chapter 13 - 6-year bar explained | 727a8.com in our free 2026 guide. [727(a)(8)]" name="twitter:description"/>
+<meta content="727(a)(8) vs 1328(f): Which Discharge Bar Applies to You?" name="twitter:title"/>
+<meta content="Learn about 727(a)(8) vs 1328(f): which discharge bar applies to you? | 727a8.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://727a8.com/og-image.png" name="twitter:image"/>
 <style>
   :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
@@ -84,7 +84,7 @@
     .nav-links .sep { display: none; }
     .nav-links .nav-label { display: block; padding: 0.5rem 1rem 0.2rem; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-muted); margin: 0; }
   }
-  @media (max-width: 600px) { header { padding: 1.5rem 1rem; } article { padding: 1rem; } }
+  @media (max-width: 600px) { header { padding: 1.5rem 1rem; } article { padding: 1rem; } table { font-size: 0.8rem; } th, td { padding: 0.4rem; } }
   @media print {
     body { background: #fff; color: #000; }
     header, nav, footer, .skip-link { display: none; }
@@ -92,24 +92,25 @@
     a { color: #000; text-decoration: underline; }
     .callout { border-color: #ccc; background: #f9f9f9; }
     h2 { border-bottom-color: #ccc; color: #000; }
-    h3 { color: #000; }
     table { border: 1px solid #ccc; }
     th { background: #f0f0f0; color: #000; }
     td { color: #000; }
   }
+  .bar-highlight { color: var(--red); font-weight: 600; }
+  .ok-highlight { color: var(--green); font-weight: 600; }
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://727a8.com/"},{"@type":"ListItem","position":2,"name":"Section 727(a)(9)","item":"https://727a8.com/727a9.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://727a8.com/"},{"@type":"ListItem","position":2,"name":"727(a)(8) vs 1328(f)","item":"https://727a8.com/vs-1328f.html"}]}
 </script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Section 727(a)(9): Chapter 7 After Chapter 13",
-  "description": "Section 727(a)(9) bars a Chapter 7 discharge if you received a Chapter 12 or 13 discharge within the past 6 years, unless you paid 70% or more of unsecured claims in good faith with best effort.",
-  "url": "https://727a8.com/727a9.html",
+  "name": "727(a)(8) vs 1328(f): Which Discharge Bar Applies?",
+  "description": "Side-by-side comparison of all bankruptcy discharge bars including 727(a)(8), 727(a)(9), 1328(f)(1), and 1328(f)(2).",
+  "url": "https://727a8.com/vs-1328f.html",
   "isAccessibleForFree": true,
   "datePublished": "2026-03-26",
   "publisher": { "@type": "Organization", "name": "Open Bankruptcy Project" }
@@ -122,7 +123,7 @@
     {
       "@type": "Article",
       "headline": "727a8.com",
-      "description": "Section 727(a)(9) bars a Chapter 7 discharge if you received a Chapter 12 or 13 discharge within the past 6 years, unless you paid 70% or more of unsecured clai",
+      "description": "Side-by-side comparison of all bankruptcy discharge bars: 727(a)(8), 727(a)(9), 1328(f)(1), and 1328(f)(2). Find which waiting period applies to your situation.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -134,94 +135,17 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://727a8.com/727a9.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "727a8.com",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nSection 727(a)(9): Chapter 7 After Chapter 13 --"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "The plan was proposed in good faith and represented your best effort."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "Did the debtor devote all disposable income to the plan?"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "Was the plan the maximum the debtor could afford?"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Did the debtor's financial situation change during the plan?"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Were there modifications that reduced payments without justification?"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "The prior Chapter 13 case was dismissed before completion (no discharge was granted)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "The debtor did not complete the plan and did not receive a hardship discharge"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "The prior case was converted to Chapter 7 (the resulting discharge, if any, is under Section 727, triggering 727(a)(8) instead)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Find your prior filing date. The date the Chapter 13 petition was filed, not the confirmation date or discharge date."
-        }
-      ]
+      "mainEntityOfPage": "https://727a8.com/vs-1328f.html"
     }
   ]
 }
 </script>
 <link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is Section 727(a)(9)?", "acceptedAnswer": {"@type": "Answer", "text": "Section 727(a)(9) is the companion statute to Section 727(a)(8) . While 727(a)(8) covers the situation where your prior case was a Chapter 7 or 11, Section 727(a)(9) covers the situation where your prior case was a Chapter 12 or Chapter 13. The Statute 11 U.S.C."}}, {"@type": "Question", "name": "How Courts Evaluate \"Best Effort\"?", "acceptedAnswer": {"@type": "Answer", "text": "Courts look at the totality of the circumstances to determine whether a plan represented the debtor's \"best effort.\" Factors include: Did the debtor devote all disposable income to the plan? Was the plan the maximum the debtor could afford? Did the debtor's financial situation change during the..."}}, {"@type": "Question", "name": "When 727(a)(9) Does Not Apply?", "acceptedAnswer": {"@type": "Answer", "text": "Section 727(a)(9) only applies when the prior case resulted in a discharge under Section 1228 (Chapter 12) or Section 1328 (Chapter 13)."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How does bankruptcy work in my state?", "acceptedAnswer": {"@type": "Answer", "text": "While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test."}}, {"@type": "Question", "name": "What are my state's bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "Every state has its own set of exemptions covering your home, car, personal property, and retirement accounts. Some states are very generous with homestead exemptions, while others offer minimal protection. Check your specific state's exemption amounts before filing."}}, {"@type": "Question", "name": "Do I have to file bankruptcy in the state where I live?", "acceptedAnswer": {"@type": "Answer", "text": "You file in the federal district where you have lived for the greater portion of the last 180 days. If you recently moved, you may need to use your previous state's exemptions for up to two years after the move under the hanging paragraph rule."}}, {"@type": "Question", "name": "Does my state allow federal bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "About 17 states allow debtors to choose between state and federal exemptions. The remaining states require you to use state exemptions only. If you have the choice, compare both sets to determine which protects more of your property."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
 </script>
-<link href="https://727a8.com/727a9.html" hreflang="en" rel="alternate"/>
-<link href="https://727a8.com/727a9-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://727a8.com/vs-1328f.html" hreflang="en" rel="alternate"/>
+<link href="https://727a8.com/vs-1328f-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <nav aria-label="Site navigation" id="site-nav">
@@ -246,99 +170,124 @@
 <a class="skip-link" href="#main">Skip to main content</a>
 <header role="banner">
 <h1><a href="/" style="color: #f0f6fc; text-decoration: none;"><span class="accent">727a8</span>.com</a></h1>
-<p class="subtitle">Section 727(a)(9) - <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> After <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></p>
+<p class="subtitle">727(a)(8) vs <a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a> - Which <a href="https://dischargebar.org/" title="discharge bar">Discharge Bar</a> Applies?</p>
 </header>
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://727a8.com/">Home</a><span class="separator">›</span><span>Section 727(a)(9)</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://727a8.com/">Home</a><span class="separator">›</span><span>727(a)(8) vs 1328(f)</span></nav>
 <article id="main" role="main">
-<h2>What is Section 727(a)(9)?</h2>
-<p>Section 727(a)(9) is the companion statute to <a href="/">Section 727(a)(8)</a>. While 727(a)(8) covers the situation where your prior case was a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or 11, Section 727(a)(9) covers the situation where your prior case was a Chapter 12 or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>.</p>
-<div class="callout">
-<h4>The Statute</h4>
-<p>11 U.S.C. Section 727(a)(9): "The court shall grant the debtor a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, unless the debtor has been granted a <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> under section 1228 or 1328 of this title in a case commenced within 6 years before the date of the filing of the petition, unless payments under the plan in the prior case totaled not less than - (A) 100 percent of the allowed unsecured claims in such case; or (B) not less than 70 percent of such claims, and the plan was proposed by the debtor in <a href="https://chapter13plan.org/" title="good faith">good faith</a>, and was the debtor's best effort."</p>
-</div>
-<p>In plain English: if you received a Chapter 13 (or Chapter 12) discharge in a case filed within the past 6 years, you cannot get a Chapter 7 discharge - unless you paid all of your unsecured creditors in full, or paid at least 70% of them and your plan was a good-faith best effort.</p>
-<h2>The 6-Year Bar</h2>
-<p>Like <a href="/">Section 727(a)(8)</a>, the 6-year period under 727(a)(9) is measured from <strong>filing date to filing date</strong>. The date you received your Chapter 13 discharge does not control.</p>
-<div class="callout green">
-<h4>Example</h4>
-<p>You filed Chapter 13 on January 10, 2020 and received your discharge on February 15, 2025 after completing a 5-year plan. The 6-year bar expires on <strong>January 10, 2026</strong>, not February 15, 2031. You could file Chapter 7 on or after January 10, 2026.</p>
-</div>
-<p>This is particularly important for Chapter 13 cases because they typically last 3 to 5 years. A debtor who completes a 5-year plan may find that the 6-year window is nearly expired by the time they receive the discharge, making the wait quite short.</p>
-<h2>The 70% Exception</h2>
-<p>Section 727(a)(9)(B) provides an exception to the 6-year bar. If you meet <strong>both</strong> of the following conditions, the bar does not apply:</p>
-<ol>
-<li>You paid at least 70% of allowed unsecured claims under the plan; <strong>and</strong></li>
-<li>The plan was proposed in <a href="https://chapter13plan.org/" title="good faith">good faith</a> and represented your best effort.</li>
-</ol>
-<p>Both conditions must be satisfied. Paying 70% alone is not enough if the plan was not proposed in good faith. And a good-faith plan that paid less than 70% does not qualify.</p>
-<h3>How Courts Evaluate "Best Effort"</h3>
-<p>Courts look at the totality of the circumstances to determine whether a plan represented the debtor's "best effort." Factors include:</p>
-<ul>
-<li>Did the debtor devote all disposable income to the plan?</li>
-<li>Was the plan the maximum the debtor could afford?</li>
-<li>Did the debtor's financial situation change during the plan?</li>
-<li>Were there modifications that reduced payments without justification?</li>
-</ul>
-<p>This is a subjective determination, and different courts may reach different conclusions on similar facts. If you plan to rely on the 70% exception, you should have documentation of your plan payments and be prepared to demonstrate good faith.</p>
-<h3>The 100% Exception</h3>
-<p>Section 727(a)(9)(A) provides a simpler exception: if you paid 100% of allowed unsecured claims, the bar does not apply, period. No good-faith or best-effort analysis is required. If every <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured creditor</a> received full payment through the plan, you are free to file Chapter 7 at any time.</p>
-<h2>When 727(a)(9) Does Not Apply</h2>
-<p>Section 727(a)(9) only applies when the prior case resulted in a <strong>discharge</strong> under Section 1228 (Chapter 12) or <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a> (Chapter 13). It does not apply if:</p>
-<ul>
-<li>The prior Chapter 13 case was <strong>dismissed</strong> before completion (no discharge was granted)</li>
-<li>The debtor did not complete the plan and did not receive a <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Hardship Discharge - Open Bankruptcy Project">hardship discharge</a></li>
-<li>The prior case was converted to Chapter 7 (the resulting discharge, if any, is under <a href="https://www.law.cornell.edu/uscode/text/11/727" rel="noopener" target="_blank">Section 727</a>, triggering <a href="/">727(a)(8)</a> instead)</li>
-</ul>
-<p>This distinction matters a great deal. Chapter 13 cases have high <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates - nationally, over 50% of Chapter 13 cases end in <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rather than discharge. If your Chapter 13 was dismissed, Section 727(a)(9) does not bar a subsequent Chapter 7 filing.</p>
-<h2>727(a)(9) vs. 727(a)(8)</h2>
+<h2>The Complete Discharge Bar Table</h2>
+<p>The Bankruptcy Code contains four main time-based <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> bars that apply to repeat filers. Which one applies depends on two things: the chapter of your <strong>prior</strong> case and the chapter of your <strong>new</strong> case. All periods are measured from filing date to filing date.</p>
 <table>
 <thead>
 <tr>
-<th scope="col">Feature</th>
-<th scope="col">727(a)(8)</th>
-<th scope="col">727(a)(9)</th>
+<th scope="col">Prior Discharge</th>
+<th scope="col">New Case</th>
+<th scope="col">Wait</th>
+<th scope="col">Statute</th>
+<th scope="col">Exception</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Prior case type</td>
-<td>Chapter 7 or 11</td>
-<td>Chapter 12 or 13</td>
-</tr>
-<tr>
-<td>Waiting period</td>
-<td>8 years</td>
-<td>6 years</td>
-</tr>
-<tr>
-<td>Measurement</td>
-<td>Filing date to filing date</td>
-<td>Filing date to filing date</td>
-</tr>
-<tr>
-<td>Exceptions</td>
+<td><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></td>
+<td>Chapter 7</td>
+<td class="bar-highlight">8 years</td>
+<td><a href="/">727(a)(8)</a></td>
 <td>None</td>
-<td>100% payment, or 70% with good faith + best effort</td>
 </tr>
 <tr>
-<td>New case type</td>
-<td>Bars Chapter 7 discharge</td>
-<td>Bars Chapter 7 discharge</td>
+<td><a href="https://section1191.org/" title="Chapter 11">Chapter 11</a></td>
+<td><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></td>
+<td class="bar-highlight">8 years</td>
+<td><a href="/">727(a)(8)</a></td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></td>
+<td>Chapter 7</td>
+<td class="bar-highlight">6 years</td>
+<td><a href="/727a9.html">727(a)(9)</a></td>
+<td>100% paid, or 70% + <a href="https://chapter13plan.org/" title="good faith">good faith</a></td>
+</tr>
+<tr>
+<td>Chapter 12</td>
+<td>Chapter 7</td>
+<td class="bar-highlight">6 years</td>
+<td><a href="/727a9.html">727(a)(9)</a></td>
+<td>100% paid, or 70% + good faith</td>
+</tr>
+<tr>
+<td>Chapter 7</td>
+<td><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></td>
+<td class="bar-highlight">4 years</td>
+<td><a href="https://1328f.com/explainer.html">1328(f)(1)</a></td>
+<td>None</td>
+</tr>
+<tr>
+<td><a href="https://section1191.org/" title="Chapter 11">Chapter 11</a></td>
+<td>Chapter 13</td>
+<td class="bar-highlight">4 years</td>
+<td><a href="https://1328f.com/explainer.html">1328(f)(1)</a></td>
+<td>None</td>
+</tr>
+<tr>
+<td>Chapter 12</td>
+<td>Chapter 13</td>
+<td class="bar-highlight">4 years</td>
+<td><a href="https://1328f.com/explainer.html">1328(f)(1)</a></td>
+<td>None</td>
+</tr>
+<tr>
+<td>Chapter 13</td>
+<td>Chapter 13</td>
+<td class="bar-highlight">2 years</td>
+<td><a href="https://1328f.com/explainer.html">1328(f)(2)</a></td>
+<td>None</td>
 </tr>
 </tbody>
 </table>
-<h2>Practical Guidance</h2>
-<p>If you completed a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> and want to file Chapter 7:</p>
-<ol>
-<li><strong>Find your prior filing date.</strong> The date the Chapter 13 petition was filed, not the confirmation date or discharge date.</li>
-<li><strong>Check whether 6 years have passed.</strong> Use our <a href="/calculator.html">date calculator</a>.</li>
-<li><strong>If within 6 years, check the 70% threshold.</strong> Review your Chapter 13 trustee's final report to determine the percentage paid to unsecured creditors.</li>
-<li><strong>If you paid 70% or more,</strong> gather documentation and be prepared to demonstrate good faith and best effort to the court.</li>
-<li><strong>If you paid less than 70%,</strong> you must wait until the 6-year window expires, or consider filing Chapter 13 again instead (subject to <a href="/vs-1328f.html">Section 1328(f)</a>).</li>
-</ol>
+<div class="callout">
+<h4>Key Pattern</h4>
+<p>The bars are asymmetric. Filing Chapter 7 after Chapter 7 requires an 8-year wait, but filing Chapter 13 after Chapter 13 requires only a 2-year wait. This design reflects Congress's view that Chapter 13 repayment plans pose less abuse risk than Chapter 7 liquidation.</p>
+</div>
+<h2><a href="https://www.law.cornell.edu/uscode/text/11/727#a_8" rel="noopener" target="_blank">Section 727(a)(8)</a> - Chapter 7 After Chapter 7</h2>
+<p><a href="/">Section 727(a)(8)</a> is the strictest <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>: a full 8 years, with no exceptions. If you received a Chapter 7 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> in a case filed within the past 8 years, you cannot receive another Chapter 7 discharge. Period.</p>
+<p>This statute also covers the relatively rare case of an individual Chapter 11 discharge. If your prior discharge was under <a href="https://www.law.cornell.edu/uscode/text/11/1141" rel="noopener" target="_blank">Section 1141</a> (Chapter 11), the same 8-year bar applies to a subsequent Chapter 7 filing.</p>
+<h2>Section 727(a)(9) - Chapter 7 After Chapter 13</h2>
+<p><a href="/727a9.html">Section 727(a)(9)</a> imposes a 6-year bar on Chapter 7 after a Chapter 13 (or Chapter 12) discharge. Unlike 727(a)(8), this bar has exceptions. If you paid 100% of unsecured claims, or paid at least 70% in good faith with best effort, the bar does not apply.</p>
+<p>This exception exists because Chapter 13 debtors who pay a high percentage of their debts are not abusing the system by subsequently filing Chapter 7. They earned the right to a <a href="https://bankruptcyfreshstart.org" rel="noopener" target="_blank" title="Fresh Start After Bankruptcy - Open Bankruptcy Project">fresh start</a> by making substantial repayments.</p>
+<h2><a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a> - Chapter 13 Discharge Bars</h2>
+<p><a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f) was created by <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> in 2005 and has two subsections:</p>
+<h3>1328(f)(1) - Chapter 13 After Chapter 7, 11, or 12</h3>
+<p>If you received a discharge under <a href="https://www.law.cornell.edu/uscode/text/11/727" rel="noopener" target="_blank">Section 727</a> (Chapter 7), 1141 (Chapter 11), or 1228 (Chapter 12) in a case filed within 4 years before the new Chapter 13 filing, the court may not grant a Chapter 13 discharge.</p>
+<p>This does not prevent you from <em>filing</em> Chapter 13. You can still file for the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and the structured <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a>. But you will not receive a discharge at the end of the plan. For some debtors, particularly those facing imminent foreclosure or <a href="https://garnishedwages.org" rel="noopener" target="_blank" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project">wage garnishment</a>, a Chapter 13 without discharge can still provide meaningful relief.</p>
+<h3>1328(f)(2) - Chapter 13 After Chapter 13</h3>
+<p>If you received a Chapter 13 discharge in a case filed within 2 years before the new Chapter 13 filing, the court may not grant a discharge. This is the shortest bar in the system, reflecting the lower abuse concern for debtors who complete repayment plans.</p>
+<p>For a deeper explanation of <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f), see the <a href="https://1328f.com/explainer.html">1328(f) explainer on 1328f.com</a>.</p>
+<h2>What About <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a>?</h2>
+<p><a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) is different from the discharge bars above. It is a <strong>filing bar</strong>, not a <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>. It prevents you from filing any bankruptcy case for 180 days if your prior case was dismissed under certain circumstances:</p>
+<ul>
+<li>Dismissed for willful failure to abide by court orders or appear before the court (<a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g)(1))</li>
+<li>You requested and obtained voluntary <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> after a creditor sought <a href="https://relieffromstay.org/" title="relief from stay">relief from stay</a> (<a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g)(2))</li>
+</ul>
+<p><a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) applies to all chapters and prevents filing entirely, not just the discharge. For more, see the <a href="https://1328f.com/109g-filing-bar.html">Section 109(g) explainer on 1328f.com</a>.</p>
+<h2>How to Read the Table: Common Scenarios</h2>
+<h3>Scenario 1: Filed Chapter 7 three years ago, want to file Chapter 7 again</h3>
+<p>You are within the 8-year window under <a href="/">727(a)(8)</a>. You cannot get a Chapter 7 discharge. Your options: wait 5 more years, or file Chapter 13 instead (but <a href="https://1328f.com/explainer.html">1328(f)(1)</a> will bar your Chapter 13 discharge since you are within 4 years).</p>
+<h3>Scenario 2: Completed Chapter 13 four years ago, want to file Chapter 7</h3>
+<p>You are within the 6-year window under <a href="/727a9.html">727(a)(9)</a>. But if you paid 70%+ of unsecured claims in good faith with best effort, the bar does not apply. Check your trustee's final report.</p>
+<h3>Scenario 3: Filed Chapter 7 five years ago, want to file Chapter 13</h3>
+<p>The <a href="/">727(a)(8)</a> bar (8 years for Ch7-to-Ch7) does not apply because you are filing Chapter 13, not Chapter 7. But <a href="https://1328f.com/explainer.html">1328(f)(1)</a> imposes a 4-year bar on Chapter 13 discharge after Chapter 7. Since 5 years have passed, you are outside the 4-year window. You can file Chapter 13 and receive a discharge.</p>
+<h3>Scenario 4: Completed Chapter 13 one year ago, want to file Chapter 13 again</h3>
+<p>You are within the 2-year window under <a href="https://1328f.com/explainer.html">1328(f)(2)</a>. You can file Chapter 13 for the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> and <a href="https://chapter13plan.org/" title="Chapter 13 plan">repayment plan</a>, but you will not receive a discharge at the end.</p>
+<h2>Use Our Tools</h2>
+<ul>
+<li><a href="/calculator.html">727a8.com Date Calculator</a> - calculate your Chapter 7 eligibility date</li>
+<li><a href="https://1328f.com/check.html">1328f.com Eligibility Screener</a> - check all discharge bars across all chapters at once</li>
+<li><a href="https://1328f.com/compare.html">1328f.com Compare All Bars</a> - interactive comparison tool</li>
+</ul>
 <div class="callout yellow">
 <h4>Not Legal Advice</h4>
-<p>This page provides general educational information about Section 727(a)(9). The 70% exception and good-faith analysis involve fact-specific determinations that vary by court. Consult a bankruptcy attorney before making filing decisions based on these rules.</p>
+<p>This comparison is general educational information. The interaction between these statutes can be complex, and local court practices may vary. Consult a bankruptcy attorney for advice specific to your situation.</p>
 </div>
 </article>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -401,10 +350,10 @@
 <div class="links">
 <a href="/">727(a)(8) Explained</a>
 <a href="/calculator.html">Date Calculator</a>
-<a href="/vs-1328f.html">Compare Discharge Bars</a>
+<a href="/727a9.html">727(a)(9)</a>
 <a href="/case-law.html">Case Law</a>
 </div>
-<p style="margin-top: 1rem;">© 2026 727a8.com. Educational use. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p style="margin-top: 1rem;">© 2026 727a8.com. Educational use. Not legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 <div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
@@ -435,9 +384,9 @@
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
-<li style="margin-bottom:0.5rem"><a href="https://studentloanforgive.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loan Forgiveness Programs</a> <span style="color:#7d8590;font-size:0.8rem">-- studentloanforgive.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
 <script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>

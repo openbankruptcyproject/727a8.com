@@ -17,24 +17,24 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Filing Chapter 13 After Chapter 7 - Section 1328(f)(1) 4-Year Bar - 727(a)(8)</title>
-<meta content="Learn about filing chapter 13 after chapter 7 - section 1328(f)(1) 4-year bar | 727a8.com in our free 2026 guide. [727(a)(8)]" name="description"/>
-<link href="https://727a8.com/chapter-13-after-7.html" rel="canonical"/>
+<title>All Bankruptcy Discharge Bars Compared - 727(a)(8), 727(a)(9), 1328(f), 109(g)</title>
+<meta content="Learn about all bankruptcy discharge bars compared - 727(a)(8), 727(a)(9), 1328(f), 109(g) | 727a8.com in our free 2026 guide." name="description"/>
+<link href="https://727a8.com/all-bars-compared.html" rel="canonical"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
 <meta content="#0d1117" name="theme-color"/>
-<meta content="Filing Chapter 13 After Chapter 7 - Section 1328(f)(1) 4-Year Bar - 727(a)(8)" property="og:title"/>
-<meta content="Learn about filing chapter 13 after chapter 7 - section 1328(f)(1) 4-year bar | 727a8.com in our free 2026 guide. [727(a)(8)]" property="og:description"/>
+<meta content="All Bankruptcy Discharge Bars Compared - 727(a)(8), 727(a)(9), 1328(f), 109(g)" property="og:title"/>
+<meta content="Learn about all bankruptcy discharge bars compared - 727(a)(8), 727(a)(9), 1328(f), 109(g) | 727a8.com in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://727a8.com/chapter-13-after-7.html" property="og:url"/>
+<meta content="https://727a8.com/all-bars-compared.html" property="og:url"/>
 <meta content="727a8.com" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Filing Chapter 13 After Chapter 7 - Section 1328(f)(1) 4-Year Bar - 727(a)(8)" name="twitter:title"/>
-<meta content="Learn about filing chapter 13 after chapter 7 - section 1328(f)(1) 4-year bar | 727a8.com in our free 2026 guide. [727(a)(8)]" name="twitter:description"/>
+<meta content="All Bankruptcy Discharge Bars Compared - 727(a)(8), 727(a)(9), 1328(f), 109(g)" name="twitter:title"/>
+<meta content="Learn about all bankruptcy discharge bars compared - 727(a)(8), 727(a)(9), 1328(f), 109(g) | 727a8.com in our free 2026 guide." name="twitter:description"/>
 <meta content="https://727a8.com/og-image.svg" property="og:image"/>
 <meta content="https://727a8.com/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://727a8.com/"},{"@type":"ListItem","position":2,"name":"Chapter 13 After Chapter 7","item":"https://727a8.com/chapter-13-after-7.html"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://727a8.com/"},{"@type":"ListItem","position":2,"name":"All Bars Compared","item":"https://727a8.com/all-bars-compared.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -43,26 +43,18 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can I file Chapter 13 after Chapter 7?",
+      "name": "What are all the bankruptcy discharge bars?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. You can file a Chapter 13 case at any time after a Chapter 7 discharge. However, Section 1328(f)(1) bars a Chapter 13 discharge if the prior Chapter 7 case was filed within 4 years of the new Chapter 13 filing. You can still file and complete a Chapter 13 plan without a discharge - you just cannot receive a new discharge until the 4-year bar has passed."
+        "text": "The Bankruptcy Code contains five main discharge/filing bars: 727(a)(8) - 8 years, Chapter 7/11 to Chapter 7; 727(a)(9) - 6 years, Chapter 12/13 to Chapter 7 (with exceptions); 1328(f)(1) - 4 years, Chapter 7/11/12 to Chapter 13; 1328(f)(2) - 2 years, Chapter 13 to Chapter 13; 109(g) - 180 days filing bar after certain dismissals. All discharge bars are measured filing date to filing date."
       }
     },
     {
       "@type": "Question",
-      "name": "What is a Chapter 20 bankruptcy?",
+      "name": "Is there a discharge bar for filing Chapter 11?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Chapter 20 is an informal term for filing Chapter 7 followed by Chapter 13 (7 + 13 = 20). The Chapter 7 discharges unsecured debt, and the subsequent Chapter 13 addresses secured debt arrearages through a repayment plan. This is a legitimate strategy recognized by courts, though the debtor may not receive a Chapter 13 discharge if the 4-year bar under 1328(f)(1) applies."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Why would I file Chapter 13 if I cannot get a discharge?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Even without a discharge, a Chapter 13 plan allows you to cure mortgage arrearages, stop foreclosure through the automatic stay, and pay off secured debt over 3-5 years. If your unsecured debts were already discharged in the prior Chapter 7, the absence of a Chapter 13 discharge may not matter - there may be nothing left to discharge."
+        "text": "No. There is no discharge timing bar for Chapter 11 following any prior discharge. A debtor who received a Chapter 7 discharge yesterday could file Chapter 11 today and be eligible for a Chapter 11 discharge. The same applies to Chapter 12."
       }
     }
   ]
@@ -88,35 +80,41 @@
   header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 2.5rem 2rem; text-align: center; }
   header h1 { color: #f0f6fc; font-size: 1.8rem; margin-bottom: 0.5rem; }
   header .accent { color: var(--accent); }
-  header .subtitle { color: var(--text-muted); font-size: 1rem; max-width: 650px; margin: 0 auto; }
-  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
   .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
   .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
   .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
   .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
-  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section ul { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
   .content-section li { margin-bottom: 0.4rem; }
   .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .statute-box p { margin-bottom: 0.5rem; }
   .statute-box p:last-child { margin-bottom: 0; }
-  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .warning-box p { margin-bottom: 0.5rem; }
-  .warning-box p:last-child { margin-bottom: 0; }
-  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .green-box p { margin-bottom: 0.5rem; }
-  .green-box p:last-child { margin-bottom: 0; }
-  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
-  .yellow-box p { margin-bottom: 0.5rem; }
-  .yellow-box p:last-child { margin-bottom: 0; }
+
   table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
   th, td { padding: 0.6rem 0.8rem; text-align: left; border-bottom: 1px solid var(--border); }
   th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+
+  /* Visual Timeline */
+  .timeline { margin: 1.5rem 0; }
+  .timeline-row { display: flex; align-items: center; margin-bottom: 0.75rem; gap: 0.75rem; }
+  .timeline-label { width: 180px; font-size: 0.85rem; color: var(--text); flex-shrink: 0; text-align: right; }
+  .timeline-track { flex: 1; background: #21262d; border-radius: 4px; height: 28px; position: relative; overflow: hidden; }
+  .timeline-bar { height: 100%; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; font-weight: 600; color: #fff; }
+  .timeline-bar.red { background: var(--red); }
+  .timeline-bar.yellow { background: #b08800; }
+  .timeline-bar.green { background: #238636; }
+  .timeline-bar.blue { background: var(--accent); }
+  .timeline-years { display: flex; justify-content: space-between; margin-left: 180px; padding-left: 0.75rem; font-size: 0.7rem; color: var(--text-muted); margin-top: 0.25rem; }
+
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
   .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
   .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
   .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; }
   .network-footer .links a:hover { color: var(--accent); }
   .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; }
+
   @media (max-width: 600px) {
     header h1 { font-size: 1.4rem; }
     header { padding: 1.5rem 1rem; }
@@ -129,6 +127,9 @@
     .nav-links a { padding: 0.6rem 0; min-height: 44px; display: flex; align-items: center; border-bottom: 1px solid #21262d; }
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
+    .timeline-label { width: 100px; font-size: 0.75rem; }
+    .timeline-years { margin-left: 100px; }
+    .timeline-bar { font-size: 0.65rem; }
   }
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
@@ -142,8 +143,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Filing Chapter 13 After Chapter 7",
-      "description": "After a Chapter 7 discharge, you can file Chapter 13 but must wait 4 years for a discharge under Section 1328(f)(1). Different from the 8-year bar under 727(a)(",
+      "headline": "All Bankruptcy Discharge Bars Compared",
+      "description": "Complete comparison of every bankruptcy discharge and filing bar: 727(a)(8), 727(a)(9), 1328(f)(1), 1328(f)(2), 109(g). Table, visual timeline, and filing-to-fi",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -155,68 +156,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://727a8.com/chapter-13-after-7.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "Filing Chapter 13 After Chapter 7",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nFiling Chapter 13 After Chapter 7 - Section 132"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "Car loan arrearages: Same concept - cure arrearages on a secured loan through the plan."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "Tax debts: Some tax debts that survived the Chapter 7 can be paid through a Chapter 13 plan."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "New unsecured debt: If you accumulated new unsecured debt after the Chapter 7 discharge (medical bills, credit cards opened post-discharge), Chapter 13 can address it."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Lien stripping: In some jurisdictions, Chapter 13 allows stripping wholly unsecured junior liens on real property."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Step 1: File Chapter 7. Discharge unsecured debt (credit cards, medical bills, personal loans)."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "Step 2: After the Chapter 7 discharge, file Chapter 13. Use the plan to cure secured debt arrearages (mortgage, car loan) over 3-5 years."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "Your Chapter 13 plan payments will be distributed to creditors normally"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "You get the automatic stay (stops foreclosure, repossession, garnishment)"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "You can cure arrearages through the plan"
-        }
-      ]
+      "mainEntityOfPage": "https://727a8.com/all-bars-compared.html"
     },
     {
       "@type": "WebPage",
-      "name": "Filing Chapter 13 After Chapter 7",
-      "url": "https://727a8.com/chapter-13-after-7.html",
+      "name": "All Bankruptcy Discharge Bars Compared",
+      "url": "https://727a8.com/all-bars-compared.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -230,29 +175,8 @@
   ]
 }
 </script>
-<link href="https://727a8.com/chapter-13-after-7.html" hreflang="en" rel="alternate"/>
-<link href="https://727a8.com/chapter-13-after-7-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://727a8.com/all-bars-compared.html" hreflang="en" rel="alternate"/>
+<link href="https://727a8.com/all-bars-compared-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -264,104 +188,141 @@
 <a href="/calculator.html">Calculator</a>
 <a href="/exceptions.html">6-Year Exception</a>
 <a href="/filing-to-filing.html">Filing Dates</a>
-<a class="active" href="/chapter-13-after-7.html">Ch.13 After Ch.7</a>
-<a href="/all-bars-compared.html">Compare All</a>
+<a href="/chapter-13-after-7.html">Ch.13 After Ch.7</a>
+<a class="active" href="/all-bars-compared.html">Compare All</a>
 <a href="/good-faith-exception.html">Good Faith</a>
 <a href="/state-by-state.html">By State</a>
 <a href="/common-mistakes.html">Mistakes</a>
 </div>
 </nav>
 <header>
-<h1>Filing <span class="accent">Chapter 13</span> After Chapter 7</h1>
-<p class="subtitle"><a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a>(1) - the 4-year bar. Different from 727(a)(8). Half the wait.</p>
+<h1>All Bankruptcy <span class="accent">Discharge Bars</span> Compared</h1>
+<p class="subtitle">Every discharge timing bar in the Bankruptcy Code in one place. Tables, visual timelines, and cross-references to the statutes.</p>
 </header>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://727a8.com/">Home</a><span class="separator">›</span><span>Chapter 13 After Chapter 7</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://727a8.com/">Home</a><span class="separator">›</span><span>All Bars Compared</span></nav>
+<!-- Master Table -->
 <div class="content-section">
-<h2>The 4-Year Bar Under Section 1328(f)(1)</h2>
-<p>If you received a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> and want to file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the waiting period for a new <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> is <strong>4 years</strong> - half the 8-year bar that applies to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> to Chapter 7 under <a href="/">Section 727(a)(8)</a>.</p>
-<div class="statute-box">
-<p><strong>11 U.S.C. <a href="https://1328f.com/" title="Section 1328(f)">Section 1328(f)</a>(1):</strong> "Notwithstanding subsections (a) and (b), the court shall not grant a discharge of all debts provided for in the plan or disallowed under section 502, if the debtor has received a discharge - (1) in a case filed under chapter 7, 11, or 12 of this title during the 4-year period preceding the date of the order for relief under this chapter."</p>
-</div>
-<p>Like <a href="/filing-to-filing.html">every other discharge bar</a>, this is measured <strong>filing date to filing date</strong>. The discharge date of the prior Chapter 7 is irrelevant.</p>
-</div>
-<div class="content-section">
-<h2>Why File Chapter 13 After Chapter 7?</h2>
-<p>If you already received a Chapter 7 discharge, why would you need bankruptcy again? Several common reasons:</p>
-<ul>
-<li><strong>Mortgage arrearages:</strong> You fell behind on your mortgage after the Chapter 7 discharge. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> lets you cure the arrearage over 3-5 years while keeping the house.</li>
-<li><strong>Car loan arrearages:</strong> Same concept - cure arrearages on a secured loan through the plan.</li>
-<li><strong>Tax debts:</strong> Some tax debts that survived the Chapter 7 can be paid through a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a>.</li>
-<li><strong>New <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a>:</strong> If you accumulated new <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a> after the Chapter 7 discharge (medical bills, credit cards opened post-discharge), Chapter 13 can address it.</li>
-<li><strong><a href="https://lienstripping.org/" title="lien">Lien stripping</a>:</strong> In some jurisdictions, Chapter 13 allows stripping wholly unsecured junior liens on real property.</li>
-</ul>
-</div>
-<div class="content-section">
-<h2>The "Chapter 20" Strategy</h2>
-<p>"Chapter 20" is not a chapter of the Bankruptcy Code. It is an informal term for filing Chapter 7 followed by Chapter 13 (7 + 13 = 20). This is a legitimate, court-recognized strategy:</p>
-<ol>
-<li><strong>Step 1:</strong> File Chapter 7. Discharge unsecured debt (credit cards, medical bills, personal loans).</li>
-<li><strong>Step 2:</strong> After the Chapter 7 discharge, file Chapter 13. Use the plan to cure secured debt arrearages (mortgage, car loan) over 3-5 years.</li>
-</ol>
-<h3>The Catch</h3>
-<p>If you file Chapter 13 within 4 years of the Chapter 7 filing, <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f)(1) prevents a Chapter 13 discharge. This means:</p>
-<ul>
-<li>Your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> payments will be distributed to creditors normally</li>
-<li>You get the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> (stops foreclosure, repossession, <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a>)</li>
-<li>You can cure arrearages through the plan</li>
-<li>But any debts remaining at the end of the plan will <strong>not</strong> be discharged</li>
-</ul>
-<div class="yellow-box">
-<p><strong>When this does not matter:</strong> If your unsecured debts were already discharged in the Chapter 7, and your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> is designed to pay 100% of remaining secured claims, there may be nothing left to discharge. The absence of a Chapter 13 discharge is irrelevant if the plan pays everything.</p>
-</div>
-<div class="warning-box">
-<p><strong>When this does matter:</strong> If you have new unsecured debts that arose after the Chapter 7 discharge, those debts were not covered by the Chapter 7 discharge. Without a Chapter 13 discharge, those debts survive. Courts are also split on whether a no-discharge <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> can strip junior liens.</p>
-</div>
-</div>
-<div class="content-section">
-<h2>Comparison: Filing After Chapter 7</h2>
+<h2>The Complete Discharge Bar Table</h2>
+<p>This table shows every <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> timing bar across all chapter combinations. All periods are measured <a href="/filing-to-filing.html">filing date to filing date</a>.</p>
 <table>
 <tr>
-<th scope="col">New case</th>
-<th scope="col">Waiting period</th>
-<th scope="col">Statute</th>
+<th scope="col">Prior <a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a></th>
+<th scope="col">New Ch. 7</th>
+<th scope="col">New Ch. 13</th>
+<th scope="col">New Ch. 11</th>
+<th scope="col">New Ch. 12</th>
 </tr>
 <tr>
-<td>Chapter 7 again</td>
-<td style="color:var(--red)"><strong>8 years</strong></td>
-<td><a href="/">727(a)(8)</a></td>
+<td><strong>Ch. 7 discharge</strong></td>
+<td style="color:var(--red)">8 yrs (727(a)(8))</td>
+<td style="color:var(--yellow)">4 yrs (<a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(1))</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
 </tr>
 <tr>
-<td>Chapter 13</td>
-<td style="color:var(--yellow)"><strong>4 years</strong></td>
-<td><a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(1)</td>
+<td><strong>Ch. 11 discharge</strong></td>
+<td style="color:var(--red)">8 yrs (727(a)(8))</td>
+<td style="color:var(--yellow)">4 yrs (<a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(1))</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
 </tr>
 <tr>
-<td><a href="https://section1191.org/" title="Chapter 11">Chapter 11</a></td>
-<td style="color:var(--green)"><strong>No bar</strong></td>
-<td>--</td>
+<td><strong>Ch. 13 discharge</strong></td>
+<td style="color:var(--yellow)">6 yrs* (727(a)(9))</td>
+<td style="color:var(--green)">2 yrs (1328(f)(2))</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
 </tr>
 <tr>
-<td>Chapter 12</td>
-<td style="color:var(--green)"><strong>No bar</strong></td>
-<td>--</td>
+<td><strong>Ch. 12 discharge</strong></td>
+<td style="color:var(--yellow)">6 yrs* (727(a)(9))</td>
+<td style="color:var(--yellow)">4 yrs (1328(f)(1))</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
+</tr>
+<tr>
+<td><strong>Dismissed (any ch.)</strong></td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
+<td style="color:var(--green)">No bar</td>
 </tr>
 </table>
-<p style="font-size:0.85rem;color:var(--text-muted)">All periods measured <a href="/filing-to-filing.html">filing date to filing date</a>. See <a href="/all-bars-compared.html">full comparison</a>.</p>
+<p style="font-size:0.85rem;color:var(--text-muted)">* Exceptions exist for 100% plans or 70%+ good-faith/best-effort plans under <a href="/exceptions.html">Section 727(a)(9)</a>. All periods measured filing date to filing date. <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> triggers no <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>, but may trigger the separate <a href="https://109g.org">Section 109(g)</a> filing bar.</p>
+</div>
+<!-- Visual Timeline -->
+<div class="content-section">
+<h2>Visual Timeline</h2>
+<p>How the discharge bars compare visually. Each bar shows how long you must wait for a new discharge after a prior filing.</p>
+<div aria-label="Visual comparison of discharge bar waiting periods" class="timeline" role="img">
+<div class="timeline-row">
+<div class="timeline-label">Ch.7 to Ch.7</div>
+<div class="timeline-track"><div class="timeline-bar red" style="width:100%">8 years - 727(a)(8)</div></div>
+</div>
+<div class="timeline-row">
+<div class="timeline-label">Ch.13 to Ch.7</div>
+<div class="timeline-track"><div class="timeline-bar yellow" style="width:75%">6 years - 727(a)(9)</div></div>
+</div>
+<div class="timeline-row">
+<div class="timeline-label">Ch.7 to Ch.13</div>
+<div class="timeline-track"><div class="timeline-bar blue" style="width:50%">4 years - 1328(f)(1)</div></div>
+</div>
+<div class="timeline-row">
+<div class="timeline-label">Ch.13 to Ch.13</div>
+<div class="timeline-track"><div class="timeline-bar green" style="width:25%">2 years - 1328(f)(2)</div></div>
+</div>
+<div class="timeline-row">
+<div class="timeline-label">Any to Ch.11/12</div>
+<div class="timeline-track"><div class="timeline-bar green" style="width:3%;min-width:50px">No bar</div></div>
+</div>
+</div>
+<div class="timeline-years">
+<span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8 years</span>
+</div>
+</div>
+<!-- The Five Statutes -->
+<div class="content-section">
+<h2>The Five Statutes</h2>
+<h3>1. <a href="https://www.law.cornell.edu/uscode/text/11/727#a_8" rel="noopener" target="_blank">Section 727(a)(8)</a> - 8-Year Bar</h3>
+<p>Bars a <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> discharge if the debtor received a prior <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> discharge in a case filed within 8 years. No exceptions. The longest <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> in the Code. <a href="/">Full guide</a>.</p>
+<h3>2. Section 727(a)(9) - 6-Year Bar</h3>
+<p>Bars a Chapter 7 discharge if the debtor received a prior Chapter 12 or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> discharge in a case filed within 6 years. Two exceptions for 100% plans and 70%+ good-faith plans. <a href="/exceptions.html">Full guide</a>.</p>
+<h3>3. <a href="https://www.law.cornell.edu/uscode/text/11/1328#f_0" rel="noopener" target="_blank">Section 1328(f)</a>(1) - 4-Year Bar</h3>
+<p>Bars a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> discharge if the debtor received a prior Chapter 7, 11, or 12 discharge in a case filed within 4 years. This is the bar that applies to the <a href="/chapter-13-after-7.html">Chapter 20 strategy</a>.</p>
+<h3>4. Section 1328(f)(2) - 2-Year Bar</h3>
+<p>Bars a Chapter 13 discharge if the debtor received a prior Chapter 13 discharge in a case filed within 2 years. The shortest discharge timing bar. <a href="https://section1328.org">Full guide</a>.</p>
+<h3>5. <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a> - 180-Day Filing Bar</h3>
+<p>Unlike the others, <a href="https://109g.org/" title="Section 109(g)">109(g)</a> is a <strong>filing bar</strong>, not a <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>. It prevents a debtor from filing any new bankruptcy case for 180 days after a <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> that resulted from the debtor's willful failure to abide by court orders or to appear, or after a voluntary dismissal following a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from stay. <a href="https://109g.org">Full guide</a>.</p>
+<div class="statute-box">
+<p><strong>Key distinction:</strong> Sections 727(a)(8), 727(a)(9), and 1328(f) are <em>discharge</em> bars - you can file, but you cannot receive a discharge. <a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) is a <em>filing</em> bar - you cannot file at all. <a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) is also much shorter (180 days vs. years) and applies only after specific types of dismissals.</p>
+</div>
+</div>
+<!-- Rules That Apply to All -->
+<div class="content-section">
+<h2>Rules That Apply to All Discharge Bars</h2>
+<ul>
+<li><strong>Filing date to filing date.</strong> Every bar is measured from the filing date of the prior case to the filing date of the new case. The discharge date is never part of the calculation. <a href="/filing-to-filing.html">Full explanation</a>.</li>
+<li><strong>Discharge required.</strong> The bars apply only when the prior case resulted in a discharge. Dismissed cases, denied discharges, and revoked discharges do not trigger these bars.</li>
+<li><strong>No judicial discretion.</strong> Courts cannot waive or shorten these periods. If the math does not work, the discharge will be denied.</li>
+<li><strong>No bar for Ch. 11 or Ch. 12.</strong> There is no discharge timing bar for filing <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> or Chapter 12 after any prior discharge.</li>
+<li><strong>Multiple priors.</strong> If you have more than one prior discharge, each creates its own independent bar. You must satisfy all of them.</li>
+<li><strong>Any district.</strong> The bar applies regardless of where the prior case was filed. Courts use <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> to check nationwide.</li>
+</ul>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
 <div style="margin-bottom:1.25rem">
-<h3 style="margin-top:0">Can I file Chapter 13 after Chapter 7?</h3>
-<p>Yes. You can file at any time. But a Chapter 13 discharge is barred for 4 years from the prior Chapter 7 filing date under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f)(1). You can still complete the plan - you just may not receive a discharge.</p>
+<h3 style="margin-top:0">What are all the bankruptcy discharge bars?</h3>
+<p>727(a)(8) - 8 years, Ch.7/11 to Ch.7. 727(a)(9) - 6 years, Ch.12/13 to Ch.7 (with exceptions). 1328(f)(1) - 4 years, Ch.7/11/12 to Ch.13. 1328(f)(2) - 2 years, Ch.13 to Ch.13. <a href="https://109g.org/" title="Section 109(g)">109(g)</a> - 180 days filing bar after certain dismissals.</p>
 </div>
 <div style="margin-bottom:1.25rem">
-<h3 style="margin-top:0">What is a Chapter 20 bankruptcy?</h3>
-<p>An informal term for Chapter 7 followed by Chapter 13 (7 + 13 = 20). The Chapter 7 eliminates unsecured debt; the Chapter 13 addresses secured debt arrearages. It is a legitimate strategy recognized by courts.</p>
+<h3 style="margin-top:0">Is there a discharge bar for filing Chapter 11?</h3>
+<p>No. There is no discharge timing bar for Chapter 11 or Chapter 12 following any prior discharge.</p>
 </div>
 <div style="margin-bottom:1.25rem">
-<h3 style="margin-top:0">Why would I file Chapter 13 if I cannot get a discharge?</h3>
-<p>The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> stops foreclosure and repossession. The plan lets you cure arrearages over 3-5 years. If your unsecured debts were already discharged in Chapter 7, there may be nothing left to discharge in Chapter 13.</p>
+<h3 style="margin-top:0">What is the shortest way to get a new discharge?</h3>
+<p>Chapter 13 to Chapter 13 - 2 years under <a href="https://section1328.org" rel="noopener" target="_blank" title="Section 1328 Discharge - Open Bankruptcy Project">Section 1328</a>(f)(2). Or file Chapter 11, which has no bar at all (though Chapter 11 is expensive and complex).</p>
 </div>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -386,7 +347,7 @@
 </form>
 </div>
 <div style="background:var(--surface);border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:0 auto 1rem">
-<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 <div style="background:linear-gradient(135deg,#0d2137,#122a44);border:1px solid #1f4068;border-radius:6px;padding:0.6rem 1.2rem;margin:0 auto 1rem;max-width:600px;text-align:center;display:flex;align-items:center;justify-content:center;gap:0.75rem;flex-wrap:wrap">
@@ -435,8 +396,8 @@
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
-<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=727a8.com&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 </ul>
 </div>
@@ -452,7 +413,7 @@
 <a href="https://section1328.org?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">section1328.org</a>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=727a8.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
